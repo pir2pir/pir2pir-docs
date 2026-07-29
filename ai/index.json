@@ -1,0 +1,21 @@
+{
+  "project": "pir2pir-docs",
+  "default_branch": "production",
+  "default_locale": "ru",
+  "locales": ["ru", "en", "uz"],
+  "key_paths": {
+    "docs_root": "docs/",
+    "i18n_root": "i18n/",
+    "legal_root": "docs/legal/",
+    "registry_links": "registry/links.json",
+    "agent_rules": "AGENTS.md",
+    "project_readme": "README.md"
+  },
+  "working_notes": [
+    "This repo is content-only; the site build/deploy is handled in pir2pir-docs-site.",
+    "Pushes to production trigger a rebuild in the engine repo via GitHub Actions.",
+    "docs/legal/consent.md must remain a standalone document: 152-FZ requires consent to be separate from the terms of use.",
+    "Russian is the binding version of every legal document; translations carry a precedence note.",
+    "The Telegram bot links to these pages from its consent screen — keep registry/links.json in sync."
+  ]
+}

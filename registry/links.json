@@ -1,0 +1,18 @@
+{
+  "site": "https://docs.pir2pir.ru",
+  "note": "Docs-only site: routeBasePath is '/', so there is no /docs prefix.",
+  "routes": {
+    "index": "/",
+    "legal_consent": "/legal/consent/",
+    "legal_privacy": "/legal/privacy_policy/",
+    "legal_terms": "/legal/terms/"
+  },
+  "locale_prefixes": {
+    "ru": "",
+    "en": "/en",
+    "uz": "/uz"
+  },
+  "consumers": [
+    "pir2pir-tg-bot: consent screen links (src/Pir2pir.TgBot/Infrastructure/Localization/*.json)"
+  ]
+}
