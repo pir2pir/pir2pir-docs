@@ -9,7 +9,7 @@ Kuchga kirish sanasi: 29.07.2026
 Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi Federal
 qonunining 18.1-moddasi 1-qismi 2-bandiga muvofiq e'lon qilingan.
 
-:::note Tarjima
+:::note[Tarjima]
 Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun berilgan.
 :::
 

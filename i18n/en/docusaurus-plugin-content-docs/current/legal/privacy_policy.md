@@ -9,7 +9,7 @@ Effective date: 29.07.2026
 Published pursuant to Article 18.1(1)(2) of Russian Federal Law No. 152-FZ of 27.07.2006 "On Personal
 Data".
 
-:::note Translation
+:::note[Translation]
 The Russian version is the legally binding one. This translation is provided for convenience.
 :::
 

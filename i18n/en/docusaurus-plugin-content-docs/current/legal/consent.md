@@ -10,7 +10,7 @@ This Consent is executed as a separate document under Article 9(1) of Russian Fe
 No. 152-FZ of 27.07.2006 "On Personal Data". Accepting the [Terms of Use](./terms.md) does not grant
 this Consent, and vice versa.
 
-:::note Translation
+:::note[Translation]
 The Russian version is the legally binding one. This translation is provided for convenience.
 :::
 

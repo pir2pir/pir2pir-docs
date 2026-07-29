@@ -1,0 +1,42 @@
+{
+  "link.title.Юридические документы": {
+    "message": "Legal",
+    "description": "The title of the footer links column with title=Юридические документы in the footer"
+  },
+  "link.title.Сервис": {
+    "message": "Service",
+    "description": "The title of the footer links column with title=Сервис in the footer"
+  },
+  "link.title.Репозитории": {
+    "message": "Repositories",
+    "description": "The title of the footer links column with title=Репозитории in the footer"
+  },
+  "link.item.label.Согласие на обработку ПД": {
+    "message": "Consent to Data Processing",
+    "description": "The label of footer link with label=Согласие на обработку ПД linking to /legal/consent/"
+  },
+  "link.item.label.Политика конфиденциальности": {
+    "message": "Privacy Policy",
+    "description": "The label of footer link with label=Политика конфиденциальности linking to /legal/privacy_policy/"
+  },
+  "link.item.label.Пользовательское соглашение": {
+    "message": "Terms of Use",
+    "description": "The label of footer link with label=Пользовательское соглашение linking to /legal/terms/"
+  },
+  "link.item.label.Telegram-бот": {
+    "message": "Telegram bot",
+    "description": "The label of footer link with label=Telegram-бот linking to https://t.me/pir2pirbot"
+  },
+  "link.item.label.legal@pir2pir.ru": {
+    "message": "legal@pir2pir.ru",
+    "description": "The label of footer link with label=legal@pir2pir.ru linking to mailto:legal@pir2pir.ru"
+  },
+  "link.item.label.Контент документации": {
+    "message": "Documentation content",
+    "description": "The label of footer link with label=Контент документации linking to https://github.com/pir2pir/pir2pir-docs"
+  },
+  "link.item.label.Сайт документации": {
+    "message": "Documentation site",
+    "description": "The label of footer link with label=Сайт документации linking to https://github.com/pir2pir/pir2pir-docs-site"
+  }
+}

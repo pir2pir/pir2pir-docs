@@ -9,7 +9,7 @@ Effective date: 29.07.2026
 These Terms govern use of the Pir2Pir service. Personal data processing is governed by the separate
 [Consent](./consent.md) and the [Privacy Policy](./privacy_policy.md).
 
-:::note Translation
+:::note[Translation]
 The Russian version is the legally binding one. This translation is provided for convenience.
 :::
 

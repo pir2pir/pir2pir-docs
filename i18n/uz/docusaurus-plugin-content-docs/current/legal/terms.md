@@ -9,7 +9,7 @@ Kuchga kirish sanasi: 29.07.2026
 Ushbu Shartlar Pir2Pir xizmatidan foydalanishni tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
 alohida [Rozilik](./consent.md) va [Maxfiylik siyosati](./privacy_policy.md) bilan tartibga solinadi.
 
-:::note Tarjima
+:::note[Tarjima]
 Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun berilgan.
 :::
 

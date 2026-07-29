@@ -1,0 +1,14 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.docsSidebar.category.Юридические документы": {
+    "message": "Legal",
+    "description": "The label for category 'Юридические документы' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Юридические документы.link.generated-index.title": {
+    "message": "Legal",
+    "description": "The generated-index page title for category 'Юридические документы' in sidebar 'docsSidebar'"
+  }
+}

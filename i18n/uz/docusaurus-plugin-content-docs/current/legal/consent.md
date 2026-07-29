@@ -10,7 +10,7 @@ Ushbu Rozilik Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lu
 Federal qonunining 9-moddasi 1-qismiga muvofiq alohida hujjat sifatida rasmiylashtirilgan.
 [Foydalanish shartlari](./terms.md)ni qabul qilish Rozilik berilganini anglatmaydi va aksincha.
 
-:::note Tarjima
+:::note[Tarjima]
 Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun berilgan.
 :::
 
