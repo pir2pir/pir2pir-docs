@@ -1,20 +1,33 @@
-name: Trigger Docs Site Rebuild
+name: Trigger Docs Site Build
+
+# Content-only repo: the image is built in the site repo, which clones this one during its CI.
+# A push here therefore has to start the site's CI on the matching branch.
 
 on:
   workflow_dispatch:
   push:
-    branches: [production]
+    branches: [develop, production]
 
 jobs:
   trigger:
+    name: Start CI in pir2pir-docs-site
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger rebuild in docs site repo
+      - name: Dispatch CI on the matching branch
         env:
           REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
+          # develop -> develop (build only), production -> production (build, then deploy).
+          TARGET_REF: ${{ github.ref_name }}
         run: |
-          curl --fail -X POST \
+          set -euo pipefail
+
+          # workflow_dispatch, not repository_dispatch: the latter always runs on the site repo's
+          # default branch, which would build the wrong engine branch against this content.
+          curl --fail-with-body -sS -X POST \
             -H "Accept: application/vnd.github+json" \
             -H "Authorization: Bearer ${REPO_TOKEN}" \
-            https://api.github.com/repos/pir2pir/pir2pir-docs-site/dispatches \
-            -d '{"event_type":"docs-update"}'
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/pir2pir/pir2pir-docs-site/actions/workflows/ci.yml/dispatches \
+            -d "{\"ref\":\"${TARGET_REF}\"}"
+
+          echo "dispatched pir2pir-docs-site CI on ${TARGET_REF}"
