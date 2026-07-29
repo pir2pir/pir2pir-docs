@@ -29,8 +29,8 @@ https://docs.pir2pir.ru, personal data requests at legal@pir2pir.ru.
 
 ## 2. Relationship to School 21
 
-Pir2pir is an independent service built by a member of the community. The Operator is not School 21,
-is not affiliated with it and does not act on its behalf. Using Pir2pir is not part of the
+Pir2Pir is an independent service built by a member of the community. The Operator is not School 21,
+is not affiliated with it and does not act on its behalf. Using Pir2Pir is not part of the
 educational process.
 
 The Operator does not inherit School 21's legal basis and processes personal data under its own

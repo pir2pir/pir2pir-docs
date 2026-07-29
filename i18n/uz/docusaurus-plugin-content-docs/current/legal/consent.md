@@ -8,11 +8,7 @@ Kuchga kirish sanasi: 29.07.2026
 
 Ushbu Rozilik Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi
 Federal qonunining 9-moddasi 1-qismiga muvofiq alohida hujjat sifatida rasmiylashtirilgan.
-
-:::info Alohida hujjat
-Ushbu Rozilik [Foydalanish shartlari](./terms.md) tarkibiga kirmaydi. Shartlarni qabul qilishning
-o'zi Rozilik berilganini anglatmaydi va aksincha.
-:::
+[Foydalanish shartlari](./terms.md)ni qabul qilish Rozilik berilganini anglatmaydi va aksincha.
 
 :::note Tarjima
 Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun berilgan.
@@ -27,15 +23,15 @@ Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun b
 | OGRNIP | 326028000044859 |
 | OKVED | 62.01 "Kompyuter dasturiy ta'minotini ishlab chiqish" |
 | Roskomnadzor operatorlar reyestri | [№ 2-26-056967](https://pd.rkn.gov.ru/operators-registry/operators-list/?id=2-26-056967) |
-| Xizmat | Pir2pir — Telegram-bot [@pir2pirbot](https://t.me/pir2pirbot) va tegishli xizmatlar |
+| Xizmat | Pir2Pir — Telegram-bot [@pir2pirbot](https://t.me/pir2pirbot) va tegishli xizmatlar |
 | Aloqa | legal@pir2pir.ru |
 
-Pir2pir mustaqil ma'lumotlar operatoridir. Operator "Школа 21" bilan aloqador emas va uning nomidan
+Pir2Pir mustaqil ma'lumotlar operatoridir. Operator "Школа 21" bilan aloqador emas va uning nomidan
 ish yuritmaydi.
 
 ## 2. Ma'lumotlar subyekti
 
-Subyekt — o'zining Школа 21 hisobini Pir2pir'ga ulagan va `{login}@student.21-school.ru` ko'rinishidagi
+Subyekt — o'zining Школа 21 hisobini Pir2Pir'ga ulagan va `{login}@student.21-school.ru` ko'rinishidagi
 talabalik pochtasiga yuborilgan kod bilan uni tasdiqlagan jismoniy shaxs.
 
 Pochtani tasdiqlash ushbu Rozilik doirasida subyektni identifikatsiya qilish usulidir.
@@ -64,7 +60,7 @@ Operator quyida sanab o'tilgan ma'lumotlarni qayta ishlaydi va boshqa toifalarni
 
 ### 3.4. Texnik ma'lumotlar
 
-- Pir2pir hisobining ichki identifikatorlari;
+- Pir2Pir hisobining ichki identifikatorlari;
 - diagnostika va xavfsizlik uchun zarur bo'lgan so'rovlar jurnali.
 
 Operator maxsus toifadagi shaxsiy ma'lumotlarni (10-modda) va biometrik shaxsiy ma'lumotlarni
@@ -74,7 +70,7 @@ Operator maxsus toifadagi shaxsiy ma'lumotlarni (10-modda) va biometrik shaxsiy 
 
 Rozilik faqat quyidagi maqsadlar uchun beriladi:
 
-1. Школа 21 hisobiga egalikni tasdiqlash va Pir2pir hisobini yaratish;
+1. Школа 21 hisobiga egalikni tasdiqlash va Pir2Pir hisobini yaratish;
 2. o'quv loyihalarini o'zaro tekshirish uchun ishtirokchilarni topish va moslashtirish;
 3. login bo'yicha qidirayotgan boshqa tasdiqlangan ishtirokchilarga ishtirokchi kartasini ko'rsatish;
 4. Telegram orqali xizmat bildirishnomalarini yetkazish;
@@ -114,7 +110,7 @@ Operator shaxsiy ma'lumotlarni sotmaydi va marketing maqsadida uzatmaydi.
 
 :::warning Chegaradan tashqariga uzatish
 Xabarlar Telegram orqali yetkaziladi, uning infratuzilmasi Rossiya Federatsiyasidan tashqarida
-joylashgan. Pir2pir'dan foydalanish 152-FZ 12-moddasiga muvofiq yuqorida ko'rsatilgan ma'lumotlarni
+joylashgan. Pir2Pir'dan foydalanish 152-FZ 12-moddasiga muvofiq yuqorida ko'rsatilgan ma'lumotlarni
 xabar yetkazish uchun zarur hajmda chegaradan tashqariga uzatishni nazarda tutadi.
 :::
 

@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Effective date: 29.07.2026
 
-These Terms govern use of the Pir2pir service. Personal data processing is governed by the separate
+These Terms govern use of the Pir2Pir service. Personal data processing is governed by the separate
 [Consent](./consent.md) and the [Privacy Policy](./privacy_policy.md).
 
 :::note Translation
@@ -22,7 +22,7 @@ The User is a School 21 participant who has confirmed ownership of their account
 
 ## 2. Subject
 
-Pir2pir helps School 21 participants find each other for mutual reviews of study projects. The
+Pir2Pir helps School 21 participants find each other for mutual reviews of study projects. The
 service provides search and notification; conducting the review itself, its procedure and its outcome
 are outside the Operator's control.
 

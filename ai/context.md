@@ -5,10 +5,10 @@ Content repo for https://docs.pir2pir.ru. Markdown only. The Docusaurus engine l
 pir2pir-docs-site and clones this repo at build time.
 
 ## Operator
-Pir2pir is run by IE Aigiz Iskuzhin (INN 024803896842, OGRNIP 326028000044859, OKVED 62.01),
+Pir2Pir is run by IE Aigiz Iskuzhin (INN 024803896842, OGRNIP 326028000044859, OKVED 62.01),
 registered with Roskomnadzor as a personal data operator under No. 2-26-056967.
 
-Pir2pir is an independent service. It is not School 21 and does not act on its behalf — every legal
+Pir2Pir is an independent service. It is not School 21 and does not act on its behalf — every legal
 document states this explicitly, because the service cannot inherit School 21's legal basis for
 processing and relies on its own consent instead.
 

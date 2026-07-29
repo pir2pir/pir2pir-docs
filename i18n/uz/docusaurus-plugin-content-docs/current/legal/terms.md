@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Kuchga kirish sanasi: 29.07.2026
 
-Ushbu Shartlar Pir2pir xizmatidan foydalanishni tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
+Ushbu Shartlar Pir2Pir xizmatidan foydalanishni tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
 alohida [Rozilik](./consent.md) va [Maxfiylik siyosati](./privacy_policy.md) bilan tartibga solinadi.
 
 :::note Tarjima
@@ -22,7 +22,7 @@ Foydalanuvchi — 3-bo'limga muvofiq hisobiga egalikni tasdiqlagan Школа 21
 
 ## 2. Predmet
 
-Pir2pir Школа 21 ishtirokchilariga o'quv loyihalarini o'zaro tekshirish uchun bir-birini topishda
+Pir2Pir Школа 21 ishtirokchilariga o'quv loyihalarini o'zaro tekshirish uchun bir-birini topishda
 yordam beradi. Xizmat qidiruv va bildirishnoma vositalarini beradi; tekshiruvning o'zi, uning tartibi
 va natijasi Operator nazoratidan tashqarida.
 

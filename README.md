@@ -1,6 +1,6 @@
 # pir2pir-docs
 
-Content for the Pir2pir documentation site. This repo holds Markdown only — the Docusaurus engine,
+Content for the Pir2Pir documentation site. This repo holds Markdown only — the Docusaurus engine,
 build and deploy live in [pir2pir-docs-site](https://github.com/pir2pir/pir2pir-docs-site).
 
 ## Layout

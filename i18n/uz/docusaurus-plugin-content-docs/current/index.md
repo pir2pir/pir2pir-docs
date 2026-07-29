@@ -1,13 +1,13 @@
 ---
-title: Pir2pir
+title: Pir2Pir
 sidebar_label: Xizmat haqida
 sidebar_position: 0
 slug: /
 ---
 
-# Pir2pir
+# Pir2Pir
 
-Pir2pir "Школа 21" ishtirokchilariga o'quv loyihalarini o'zaro tekshirish uchun bir-birini topishda
+Pir2Pir "Школа 21" ishtirokchilariga o'quv loyihalarini o'zaro tekshirish uchun bir-birini topishda
 yordam beradi.
 
 - Telegram-bot: [@pir2pirbot](https://t.me/pir2pirbot)
@@ -21,12 +21,11 @@ yordam beradi.
 
 ## Huquqiy hujjatlar
 
-- [Shaxsiy ma'lumotlarni qayta ishlashga rozilik](./legal/consent.md) — alohida hujjat, xizmat ishlashi
-  uchun zarur
+- [Shaxsiy ma'lumotlarni qayta ishlashga rozilik](./legal/consent.md)
 - [Maxfiylik siyosati](./legal/privacy_policy.md)
 - [Foydalanish shartlari](./legal/terms.md)
 
 ## Mustaqillik
 
-Pir2pir — hamjamiyat a'zosining mustaqil loyihasi. Xizmat "Школа 21" emas, u bilan aloqador emas va
+Pir2Pir — hamjamiyat a'zosining mustaqil loyihasi. Xizmat "Школа 21" emas, u bilan aloqador emas va
 uning nomidan ish yuritmaydi.

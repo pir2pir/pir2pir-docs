@@ -7,12 +7,8 @@ sidebar_position: 1
 Effective date: 29.07.2026
 
 This Consent is executed as a separate document under Article 9(1) of Russian Federal Law
-No. 152-FZ of 27.07.2006 "On Personal Data".
-
-:::info Separate document
-This Consent is not part of the [Terms of Use](./terms.md). Accepting the Terms does not by itself
-grant this Consent, and vice versa.
-:::
+No. 152-FZ of 27.07.2006 "On Personal Data". Accepting the [Terms of Use](./terms.md) does not grant
+this Consent, and vice versa.
 
 :::note Translation
 The Russian version is the legally binding one. This translation is provided for convenience.
@@ -27,15 +23,15 @@ The Russian version is the legally binding one. This translation is provided for
 | OGRNIP | 326028000044859 |
 | OKVED | 62.01 "Computer software development" |
 | Roskomnadzor operator registry | [No. 2-26-056967](https://pd.rkn.gov.ru/operators-registry/operators-list/?id=2-26-056967) |
-| Service | Pir2pir — Telegram bot [@pir2pirbot](https://t.me/pir2pirbot) and related services |
+| Service | Pir2Pir — Telegram bot [@pir2pirbot](https://t.me/pir2pirbot) and related services |
 | Contact | legal@pir2pir.ru |
 
-Pir2pir is an independent data operator. The Operator is not affiliated with School 21 and does not
+Pir2Pir is an independent data operator. The Operator is not affiliated with School 21 and does not
 act on its behalf.
 
 ## 2. Data subject
 
-The subject is a natural person who has connected their School 21 account to Pir2pir and confirmed
+The subject is a natural person who has connected their School 21 account to Pir2Pir and confirmed
 ownership of it with a code sent to their student email at `{login}@student.21-school.ru`.
 
 Confirming that mailbox is how the subject is identified for the purposes of this Consent.
@@ -64,7 +60,7 @@ The Operator processes the data listed below and requests no other categories.
 
 ### 3.4. Technical data
 
-- internal Pir2pir account identifiers;
+- internal Pir2Pir account identifiers;
 - service request logs required for diagnostics and security.
 
 The Operator does **not** process special categories of personal data (Article 10) or biometric
@@ -74,7 +70,7 @@ personal data (Article 11).
 
 Consent is granted solely for the following purposes:
 
-1. confirming ownership of a School 21 account and creating a Pir2pir account;
+1. confirming ownership of a School 21 account and creating a Pir2Pir account;
 2. finding and matching participants for mutual project reviews;
 3. displaying the participant card to other verified participants searching by login;
 4. delivering service notifications via Telegram;
@@ -111,7 +107,7 @@ The Operator does not sell personal data and does not transfer it for marketing 
 
 :::warning Cross-border transfer
 Messages are delivered through Telegram, whose infrastructure is located outside the Russian
-Federation. Using Pir2pir entails cross-border transfer of the data listed above, to the extent
+Federation. Using Pir2Pir entails cross-border transfer of the data listed above, to the extent
 required for message delivery, under Article 12 of 152-FZ.
 :::
 

@@ -1,13 +1,13 @@
 ---
-title: Pir2pir
+title: Pir2Pir
 sidebar_label: About
 sidebar_position: 0
 slug: /
 ---
 
-# Pir2pir
+# Pir2Pir
 
-Pir2pir helps School 21 participants find each other for mutual reviews of study projects.
+Pir2Pir helps School 21 participants find each other for mutual reviews of study projects.
 
 - Telegram bot: [@pir2pirbot](https://t.me/pir2pirbot)
 - Personal data requests: legal@pir2pir.ru
@@ -20,12 +20,11 @@ Pir2pir helps School 21 participants find each other for mutual reviews of study
 
 ## Legal documents
 
-- [Consent to Personal Data Processing](./legal/consent.md) — a separate document, required for the
-  service to work
+- [Consent to Personal Data Processing](./legal/consent.md)
 - [Privacy Policy](./legal/privacy_policy.md)
 - [Terms of Use](./legal/terms.md)
 
 ## Independence
 
-Pir2pir is an independent community project. It is not School 21, is not affiliated with it, and does
+Pir2Pir is an independent community project. It is not School 21, is not affiliated with it, and does
 not act on its behalf.
