@@ -72,10 +72,22 @@ va ko'rsatilmaydi.
 | --- | --- |
 | Hisob va profil | rozilik qaytarib olinguncha yoki hisob o'chirilguncha |
 | Tasdiqlash kodlari | 10 daqiqa, ishlatilgunga qadar |
+| Chatdagi xabarlar va biriktirmalar | yozishmalar tugagach 30 kun, so'ng mazmuni o'chiriladi |
 | So'rovlar jurnali | 90 kundan oshmagan |
 | Qonun bo'yicha saqlanishi shart ma'lumotlar | qonunda belgilangan muddatda |
 
+Yozishmalar tugagach — ishtirokchilardan biri yopgani yoki faolsizlik muddati o'tgani sababli —
+xabarlar matni va biriktirmalar 30 kundan keyin o'chiriladi. Tekshiruv bo'lib o'tgani haqidagi yozuv
+saqlanadi, chunki u ishtirokchilarning o'quv tarixiga tegishli, ammo uning mazmuni tiklanmaydi.
+
 Rozilik qaytarib olingandan so'ng ma'lumotlar 30 kun ichida yo'q qilinadi.
+
+### 7.1. Telegram bildirishnomalari
+
+Yangi xabar haqidagi bildirishnoma 200 belgigacha bo'lgan parchani o'z ichiga oladi va Telegram
+infratuzilmasi orqali yetkaziladi. Bu parcha Operator infratuzilmasini tark etadi va Telegram'ning
+ma'lumotlarni qayta ishlash qoidalariga bo'ysunadi. Xabarning to'liq matni, biriktirmalar va chat
+mazmuni bildirishnomaga kiritilmaydi.
 
 ## 8. Himoya
 

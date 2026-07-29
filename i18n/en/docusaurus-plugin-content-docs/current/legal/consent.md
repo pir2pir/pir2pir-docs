@@ -58,7 +58,17 @@ The Operator processes the data listed below and requests no other categories.
 
 - Telegram profile photo, unless the subject declines its use as an avatar.
 
-### 3.4. Technical data
+### 3.4. Chat content
+
+- the text of messages participants exchange in a chat after both agree to a review;
+- files attached to those messages (images, documents, archives);
+- a short excerpt of a message (up to 200 characters) included in a notification.
+
+Chat content is kept for a limited time: once a conversation ends, message text and attachments are
+deleted and only the fact that a review took place is retained. The retention period is stated in the
+Privacy Policy.
+
+### 3.5. Technical data
 
 - internal Pir2Pir account identifiers;
 - service request logs required for diagnostics and security.

@@ -58,7 +58,17 @@ Operator quyida sanab o'tilgan ma'lumotlarni qayta ishlaydi va boshqa toifalarni
 
 - Telegram profil rasmi, agar subyekt undan avatar sifatida foydalanishdan bosh tortmagan bo'lsa.
 
-### 3.4. Texnik ma'lumotlar
+### 3.4. Chat mazmuni
+
+- ikkala ishtirokchi o'zaro tekshiruvga rozi bo'lgandan so'ng chatda almashiladigan xabarlar matni;
+- xabarlarga biriktirilgan fayllar (rasmlar, hujjatlar, arxivlar);
+- bildirishnoma tarkibidagi xabarning qisqa parchasi (200 belgigacha).
+
+Chat mazmuni cheklangan muddat saqlanadi: yozishmalar tugagach, xabarlar matni va biriktirmalar
+o'chiriladi, faqat tekshiruv bo'lib o'tgani haqidagi yozuv qoladi. Saqlash muddati Maxfiylik
+siyosatida ko'rsatilgan.
+
+### 3.5. Texnik ma'lumotlar
 
 - Pir2Pir hisobining ichki identifikatorlari;
 - diagnostika va xavfsizlik uchun zarur bo'lgan so'rovlar jurnali.
