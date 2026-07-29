@@ -6,18 +6,21 @@ name: Trigger Docs Site Build
 on:
   workflow_dispatch:
   push:
-    branches: [develop, production]
+    # production only. develop is a staging area for drafts — content is not built or published
+    # until it is promoted, so a push there deliberately does nothing.
+    branches: [production]
 
 jobs:
   trigger:
     name: Start CI in pir2pir-docs-site
     runs-on: ubuntu-latest
     steps:
-      - name: Dispatch CI on the matching branch
+      - name: Dispatch CI on production
         env:
           REPO_TOKEN: ${{ secrets.REPO_TOKEN }}
-          # develop -> develop (build only), production -> production (build, then deploy).
-          TARGET_REF: ${{ github.ref_name }}
+          # Hardcoded rather than github.ref_name: production is the only branch that reaches here,
+          # and a manual run from another branch must still publish production, never a draft.
+          TARGET_REF: production
         run: |
           set -euo pipefail
 
