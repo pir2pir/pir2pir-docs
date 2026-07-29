@@ -5,7 +5,8 @@
     "index": "/",
     "legal_consent": "/legal/consent/",
     "legal_privacy": "/legal/privacy_policy/",
-    "legal_terms": "/legal/terms/"
+    "legal_terms": "/legal/terms/",
+    "legal_cookies": "/legal/cookies/"
   },
   "locale_prefixes": {
     "ru": "",
@@ -13,6 +14,7 @@
     "uz": "/uz"
   },
   "consumers": [
-    "pir2pir-tg-bot: consent screen links (src/Pir2pir.TgBot/Infrastructure/Localization/*.json)"
+    "pir2pir-tg-bot: consent screen links (src/Pir2pir.TgBot/Infrastructure/Localization/*.json)",
+    "pir2pir-web-landing: footer document list and cookie notice (src/links.ts)"
   ]
 }

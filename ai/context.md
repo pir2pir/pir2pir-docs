@@ -18,10 +18,14 @@ processing and relies on its own consent instead.
 translations fall back to Russian.
 
 ## Legal structure
-Three documents, deliberately separate:
+Four documents, deliberately separate:
 - `consent.md` — consent to personal data processing. Standalone by law (152-FZ, from 01.09.2025).
 - `privacy_policy.md` — published under art. 18.1(1)(2).
 - `terms.md` — service rules, no personal data provisions.
+- `cookies.md` — cookies and similar technologies, plus the recommendation-technology rules required
+  by 149-FZ art. 10.2-2(3). Written to describe analytics as applied so it does not need revising
+  when Yandex Metrica is switched on; the operator's decision, recorded here so it is not "fixed"
+  back to the current state by someone checking the sites for a Set-Cookie header.
 
 Consent covers matching and participant search only. Advertising and any transfer to commercial or
 recruiting services are explicitly excluded and would need separate consent.
