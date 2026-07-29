@@ -29,8 +29,8 @@ shaxsiy ma'lumotlar bo'yicha murojaatlar legal@pir2pir.ru.
 
 ## 2. "Школа 21" bilan munosabat
 
-Pir2Pir — hamjamiyat a'zosi tomonidan yaratilgan mustaqil xizmat. Operator "Школа 21" emas, u bilan
-aloqador emas va uning nomidan ish yuritmaydi. Pir2Pir'dan foydalanish ta'lim jarayonining qismi emas.
+Pir2Pir — hamjamiyat a'zosi tomonidan yaratilgan mustaqil xizmat. Operator ANO «Школа 21» emas,
+u bilan aloqador emas va uning nomidan ish yuritmaydi. Pir2Pir'dan foydalanish ta'lim jarayonining qismi emas.
 
 Operator "Школа 21"ning huquqiy asoslarini meros qilib olmaydi va shaxsiy ma'lumotlarni subyekt
 bevosita bergan o'z [Roziligi](./consent.md) asosida qayta ishlaydi.
@@ -42,7 +42,7 @@ bevosita bergan o'z [Roziligi](./consent.md) asosida qayta ishlaydi.
 - **Maqsad cheklovi.** Ma'lumotlar Rozilikda ko'rsatilmagan maqsadlarda ishlatilmaydi.
 - **Roziliklarning alohidaligi.** Reklama yoki tijorat xizmatlariga uzatish uchun alohida rozilik
   talab qilinadi va hozircha amalga oshirilmaydi.
-- **Shaffoflik.** Ma'lumotlar va qabul qiluvchilar [Rozilik](./consent.md)ning 3 va 7-bo'limlarida.
+- **Shaffoflik.** Qayta ishlanadigan ma'lumotlar [Rozilik](./consent.md)ning 3-bo'limida.
 
 ## 4. Qanday ma'lumotlar qayta ishlanadi
 

@@ -36,7 +36,7 @@ oladi.
 
 ## 4. "Школа 21"dan mustaqillik
 
-Operator "Школа 21" emas, u bilan aloqador emas va uning nomidan ish yuritmaydi. Xizmat ta'lim
+Operator ANO «Школа 21» emas, u bilan aloqador emas va uning nomidan ish yuritmaydi. Xizmat ta'lim
 jarayonining qismi emas, o'quv natijalariga ta'sir qilmaydi va "Школа 21"ning rasmiy vositalarini
 almashtirmaydi.
 
@@ -70,7 +70,7 @@ javobgar emas. Operator ishtirokchilar o'rtasidagi kelishuvlarning tomoni emas.
 ## 8. To'xtatish
 
 Foydalanuvchi istalgan vaqtda hisobini o'chirishi mumkin, bu Rozilikni qaytarib olishga va
-[Rozilik](./consent.md)ning 8-bo'limiga muvofiq qayta ishlashni to'xtatishga olib keladi. Operator
+[Rozilik](./consent.md)ning 7-bo'limiga muvofiq qayta ishlashni to'xtatishga olib keladi. Operator
 Telegram-bot orqali xabar berib, xizmatni to'xtatishi mumkin.
 
 ## 9. O'zgarishlar

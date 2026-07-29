@@ -27,5 +27,5 @@ yordam beradi.
 
 ## Mustaqillik
 
-Pir2Pir — hamjamiyat a'zosining mustaqil loyihasi. Xizmat "Школа 21" emas, u bilan aloqador emas va
-uning nomidan ish yuritmaydi.
+Pir2Pir — hamjamiyat a'zosining mustaqil loyihasi. Xizmat ANO «Школа 21» emas, u bilan aloqador emas
+va uning nomidan ish yuritmaydi.

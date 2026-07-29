@@ -35,7 +35,8 @@ Only active accounts can be connected. The User undertakes to connect only their
 
 ## 4. Independence from School 21
 
-The Operator is not School 21, is not affiliated with it and does not act on its behalf. The service
+The Operator is not ANO «Школа 21» (School 21), is not affiliated with it and does not act on its
+behalf. The service
 is not part of the educational process, does not affect academic results and does not replace School
 21's official tools.
 
@@ -68,7 +69,7 @@ the School 21 public API. The Operator is not a party to arrangements between pa
 ## 8. Termination
 
 The User may delete their account at any time, which withdraws the Consent and ends processing per
-section 8 of the [Consent](./consent.md). The Operator may discontinue the service with notice
+section 7 of the [Consent](./consent.md). The Operator may discontinue the service with notice
 through the Telegram bot.
 
 ## 9. Changes

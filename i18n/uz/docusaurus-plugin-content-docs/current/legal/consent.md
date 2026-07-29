@@ -26,8 +26,8 @@ Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun b
 | Xizmat | Pir2Pir — Telegram-bot [@pir2pirbot](https://t.me/pir2pirbot) va tegishli xizmatlar |
 | Aloqa | legal@pir2pir.ru |
 
-Pir2Pir mustaqil ma'lumotlar operatoridir. Operator "Школа 21" bilan aloqador emas va uning nomidan
-ish yuritmaydi.
+Pir2Pir mustaqil ma'lumotlar operatoridir. Operator ANO «Школа 21» bilan aloqador emas va uning
+nomidan ish yuritmaydi.
 
 ## 2. Ma'lumotlar subyekti
 
@@ -99,25 +99,7 @@ profil rasmi ko'rsatiladi.
 Telegram foydalanuvchi nomi va profil rasmini boshqa ishtirokchilarga oshkor qilish — **ushbu
 Rozilikning bevosita predmeti**: usiz ishtirokchi qidiruvi ishlamaydi.
 
-## 7. Uchinchi shaxslarga va chegaradan tashqariga uzatish
-
-| Qabul qiluvchi | Hajmi | Asos |
-| --- | --- | --- |
-| Telegram Messenger | foydalanuvchi identifikatori va bot xabarlari mazmuni | xizmat xabarlarini yetkazish |
-| Infratuzilma hosting provayderi | joylashtirilgan tizimlar tarkibidagi ma'lumotlar | xizmatni joylashtirish |
-
-Operator shaxsiy ma'lumotlarni sotmaydi va marketing maqsadida uzatmaydi.
-
-:::warning Chegaradan tashqariga uzatish
-Xabarlar Telegram orqali yetkaziladi, uning infratuzilmasi Rossiya Federatsiyasidan tashqarida
-joylashgan. Pir2Pir'dan foydalanish 152-FZ 12-moddasiga muvofiq yuqorida ko'rsatilgan ma'lumotlarni
-xabar yetkazish uchun zarur hajmda chegaradan tashqariga uzatishni nazarda tutadi.
-:::
-
-Школа 21 o'quv profili ma'lumotlari **olinadi**, uzatilmaydi: operator ularni ochiq API'dan so'raydi va
-u yerga subyektning shaxsiy ma'lumotlarini yubormaydi.
-
-## 8. Amal qilish muddati va rozilikni qaytarib olish
+## 7. Amal qilish muddati va rozilikni qaytarib olish
 
 Rozilik berilgan paytdan boshlab maqsadlarga erishilgunga yoki qaytarib olinguncha amal qiladi.
 
@@ -131,7 +113,7 @@ oshmagan muddatda yo'q qiladi, qonun bo'yicha saqlanishi shart bo'lganlar bundan
 qaytarib olish xizmatdan foydalanishni imkonsiz qiladi, chunki sanab o'tilgan ma'lumotlarni qayta
 ishlash uning ishlashi uchun zarur.
 
-## 9. Subyektning huquqlari
+## 8. Subyektning huquqlari
 
 Subyekt o'z ma'lumotlari qayta ishlanishi haqida ma'lumot olish, ularni aniqlashtirish, bloklash yoki
 yo'q qilishni talab qilish, ushbu Rozilikni qaytarib olish, shuningdek operator harakatlari ustidan
@@ -139,7 +121,7 @@ Roskomnadzorga yoki sudga shikoyat qilish huquqiga ega.
 
 Tartib [Maxfiylik siyosati](./privacy_policy.md)da tavsiflangan.
 
-## 10. Tasdiqlash
+## 9. Tasdiqlash
 
 Ushbu Rozilikni berish orqali subyekt quyidagilarni tasdiqlaydi:
 

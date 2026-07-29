@@ -26,8 +26,8 @@ The Russian version is the legally binding one. This translation is provided for
 | Service | Pir2Pir — Telegram bot [@pir2pirbot](https://t.me/pir2pirbot) and related services |
 | Contact | legal@pir2pir.ru |
 
-Pir2Pir is an independent data operator. The Operator is not affiliated with School 21 and does not
-act on its behalf.
+Pir2Pir is an independent data operator. The Operator is not affiliated with ANO «Школа 21»
+(School 21) and does not act on its behalf.
 
 ## 2. Data subject
 
@@ -96,25 +96,7 @@ level and experience, wave, and the Telegram username and profile photo where se
 Disclosing the Telegram username and profile photo to other participants is a **direct subject of this
 Consent**: without it, participant search does not work.
 
-## 7. Transfer to third parties and cross-border transfer
-
-| Recipient | Scope | Basis |
-| --- | --- | --- |
-| Telegram Messenger | user identifier and bot message contents | delivery of service messages |
-| Infrastructure hosting provider | data within the hosted systems | hosting the service |
-
-The Operator does not sell personal data and does not transfer it for marketing purposes.
-
-:::warning Cross-border transfer
-Messages are delivered through Telegram, whose infrastructure is located outside the Russian
-Federation. Using Pir2Pir entails cross-border transfer of the data listed above, to the extent
-required for message delivery, under Article 12 of 152-FZ.
-:::
-
-School 21 study profile data is **received**, not transferred: the Operator requests it from the
-School 21 public API and sends no personal data there.
-
-## 8. Validity and withdrawal
+## 7. Validity and withdrawal
 
 This Consent is valid from the moment it is granted until the purposes are achieved or it is
 withdrawn.
@@ -128,7 +110,7 @@ After withdrawal the Operator stops processing and destroys the personal data wi
 data whose retention is required by law. Withdrawal makes the service unusable, since processing the
 listed data is necessary for it to function.
 
-## 9. Rights of the data subject
+## 8. Rights of the data subject
 
 The subject may obtain information about the processing of their data, require its correction,
 blocking or destruction, withdraw this Consent, and appeal the Operator's actions to Roskomnadzor or
@@ -136,7 +118,7 @@ in court.
 
 The procedure is described in the [Privacy Policy](./privacy_policy.md).
 
-## 10. Confirmation
+## 9. Confirmation
 
 By granting this Consent the subject confirms that they:
 

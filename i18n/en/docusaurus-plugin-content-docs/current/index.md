@@ -26,5 +26,5 @@ Pir2Pir helps School 21 participants find each other for mutual reviews of study
 
 ## Independence
 
-Pir2Pir is an independent community project. It is not School 21, is not affiliated with it, and does
-not act on its behalf.
+Pir2Pir is an independent community project. It is not ANO «Школа 21» (School 21), is not affiliated
+with it, and does not act on its behalf.
