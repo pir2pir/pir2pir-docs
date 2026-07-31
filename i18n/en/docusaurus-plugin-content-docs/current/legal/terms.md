@@ -4,7 +4,7 @@ sidebar_label: Terms of Use
 sidebar_position: 3
 ---
 
-Effective date: 29.07.2026
+Effective date: 31.07.2026
 
 These Terms govern use of the Pir2Pir service. Personal data processing is governed by the separate
 [Consent](./consent.md) and the [Privacy Policy](./privacy_policy.md).
@@ -54,11 +54,28 @@ The Operator may restrict access where these rules are broken.
 
 ## 6. Profile visibility
 
-By connecting an account the User agrees that their card becomes visible to other verified
-participants searching by login. The fields shown are listed in section 6 of the
-[Consent](./consent.md).
+The service keeps no directory of participants and offers no search for people. A User's profile is
+not shown to other participants until the User themselves agrees to talk or to a mutual review. What
+is disclosed after that is listed in section 6 of the [Consent](./consent.md).
 
-Visibility ends when the account is deleted in the Telegram bot.
+The Operator does not give one participant another's messenger accounts, email address or other
+contact details.
+
+Processing ends when the account is deleted in the Telegram bot.
+
+## 6.1. Inviting a student who is not registered with the service
+
+By supplying an exact School 21 login, a User may send one short invitation to a student who is not
+registered with the service. The Operator delivers it in its own name; the recipient's address is not
+given to the User.
+
+In using this, the User undertakes to send invitations on study matters only, and accepts that their
+School 21 login is stated in the invitation. Bulk sending, advertising, repeat approaches to anyone
+who has opted out, and approaches unrelated to project reviews are prohibited and will result in
+access to the service being restricted.
+
+Frequency limits and the recipient's right to opt out are set out in section 6.2 of the
+[Consent](./consent.md).
 
 ## 7. Liability
 

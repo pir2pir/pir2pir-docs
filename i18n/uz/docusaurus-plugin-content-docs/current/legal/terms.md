@@ -4,7 +4,7 @@ sidebar_label: Foydalanish shartlari
 sidebar_position: 3
 ---
 
-Kuchga kirish sanasi: 29.07.2026
+Kuchga kirish sanasi: 31.07.2026
 
 Ushbu Shartlar Pir2Pir xizmatidan foydalanishni tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
 alohida [Rozilik](./consent.md) va [Maxfiylik siyosati](./privacy_policy.md) bilan tartibga solinadi.
@@ -55,11 +55,28 @@ Qoidalar buzilganda Operator xizmatga kirishni cheklashi mumkin.
 
 ## 6. Profil ko'rinishi
 
-Hisobni ulash orqali Foydalanuvchi o'z kartasi login bo'yicha qidirayotgan boshqa tasdiqlangan
-ishtirokchilarga ko'rinishiga rozilik bildiradi. Ko'rsatiladigan maydonlar [Rozilik](./consent.md)ning
-6-bo'limida sanab o'tilgan.
+Xizmatda ishtirokchilar katalogi va odamlar bo'yicha qidiruv yo'q. Foydalanuvchining profili u o'zi
+muloqotga yoki o'zaro tekshiruvga rozilik bermaguncha boshqa ishtirokchilarga ko'rsatilmaydi.
+Shundan keyin oshkor qilinadigan ma'lumotlar [Rozilik](./consent.md)ning 6-bo'limida sanab o'tilgan.
 
-Ko'rinishni to'xtatish uchun Telegram-botda hisobni o'chirish kifoya.
+Operator bir ishtirokchining messenjerdagi hisoblarini, elektron pochtasini yoki boshqa aloqa
+ma'lumotlarini boshqasiga bermaydi.
+
+Qayta ishlashni to'xtatish uchun Telegram-botda hisobni o'chirish kifoya.
+
+## 6.1. Xizmatda ro'yxatdan o'tmagan talabani taklif qilish
+
+Aniq Школа 21 loginini ko'rsatib, Foydalanuvchi xizmatda ro'yxatdan o'tmagan talabaga bitta qisqa
+taklif yuborishi mumkin. Taklifni Operator o'z nomidan yetkazadi; oluvchining manzili
+Foydalanuvchiga berilmaydi.
+
+Bu imkoniyatdan foydalanar ekan, Foydalanuvchi takliflarni faqat o'quv masalalari bo'yicha yuborish
+majburiyatini oladi va taklifda uning Школа 21 logini ko'rsatilishiga rozilik bildiradi. Ommaviy
+tarqatish, reklama, rad etganlarga takroriy murojaat va loyihalarni tekshirishga aloqasi bo'lmagan
+murojaatlar taqiqlanadi hamda xizmatga kirishni cheklashga olib keladi.
+
+Chastota cheklovlari va oluvchining rad etish huquqi [Rozilik](./consent.md)ning 6.2-bo'limida
+keltirilgan.
 
 ## 7. Javobgarlik
 

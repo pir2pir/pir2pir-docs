@@ -4,7 +4,7 @@ sidebar_label: Maxfiylik siyosati
 sidebar_position: 2
 ---
 
-Kuchga kirish sanasi: 29.07.2026
+Kuchga kirish sanasi: 31.07.2026
 
 Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi Federal
 qonunining 18.1-moddasi 1-qismi 2-bandiga muvofiq e'lon qilingan.
@@ -54,6 +54,7 @@ To'liq ro'yxat [Rozilik](./consent.md)ning 3-bo'limida. Qisqacha:
 | Ism, `telegram_user_id`, `@username`, profil rasmi | Telegram, botni ulashda |
 | Kampus, to'lqin, ta'lim shakli, daraja, ballar, loyihalar | Школа 21 ochiq API'si |
 | Ichki identifikatorlar va so'rovlar jurnali | xizmat tomonidan shakllantiriladi |
+| Ro'yxatdan o'tmagan talabaning logini va undan hosil qilingan manzil | ishtirokchi ko'rsatadi; login mavjudligi Школа 21 ochiq API'sida tekshiriladi |
 
 ## 5. Huquqiy asos
 
@@ -62,9 +63,23 @@ qo'llanilmaydi.
 
 ## 6. Uchinchi shaxslar ma'lumotlari
 
-Ishtirokchi qidiruvi boshqa ishtirokchilar kartalarini qaytaradi. Faqat mustaqil ro'yxatdan o'tgan va
-Rozilik bergan shaxslar ko'rsatiladi. Ishtirokchi bo'lmagan shaxslar haqidagi ma'lumotlar yig'ilmaydi
-va ko'rsatilmaydi.
+Operator ishtirokchilar katalogini yuritmaydi, odamlar bo'yicha qidiruv taqdim etmaydi va xizmatda
+ro'yxatdan o'tmagan Школа 21 talabalari haqida ma'lumot yig'maydi. Boshqa ishtirokchilarning
+profillari faqat mustaqil ro'yxatdan o'tgan va Rozilik bergan shaxslarga, faqat o'zaro muloqotga
+rozilik berilgandan keyin oshkor qilinadi.
+
+Yagona istisno — ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga
+yuboriladigan taklif. Bu holda Operator shu shaxsning loginini, undan hosil qilingan elektron pochta
+manzilini, taklif matnini va yetkazish belgisini qayta ishlaydi.
+
+Bunday ma'lumotlar subyektning o'zidan emas, balki loginni ko'rsatgan ishtirokchidan olingan.
+Yuborilayotgan xabar ayni paytda subyektni xabardor qilish vazifasini bajaradi: unda kim murojaat
+qilgani, u haqida qanday ma'lumotlar qayta ishlanayotgani, ular qayerdan olingani va qayta ishlashni
+qanday to'xtatish mumkinligi ko'rsatilgan. Xabardagi rad etish havolasi darhol, muddatsiz va barcha
+kanallar uchun kuchga kiradi. Bunday shaxs uchun hisob yaratilmaydi, profil shakllantirilmaydi, u
+haqida boshqa ma'lumotlar so'ralmaydi va saqlanmaydi.
+
+Shartlar va cheklovlar [Rozilik](./consent.md)ning 6.2-bo'limida keltirilgan.
 
 ## 7. Saqlash muddatlari
 
@@ -74,6 +89,8 @@ va ko'rsatilmaydi.
 | Tasdiqlash kodlari | 10 daqiqa, ishlatilgunga qadar |
 | Chatdagi xabarlar va biriktirmalar | yozishmalar tugagach 30 kun, so'ng mazmuni o'chiriladi |
 | So'rovlar jurnali | 90 kundan oshmagan |
+| Ro'yxatdan o'tmagan talabalarga takliflar | 12 oy, so'ngra o'chiriladi |
+| Takliflardan rad etish | muddatsiz — taqiqni bajarish uchun yozuv zarur |
 | Qonun bo'yicha saqlanishi shart ma'lumotlar | qonunda belgilangan muddatda |
 
 Yozishmalar tugagach — ishtirokchilardan biri yopgani yoki faolsizlik muddati o'tgani sababli —
@@ -82,12 +99,14 @@ saqlanadi, chunki u ishtirokchilarning o'quv tarixiga tegishli, ammo uning mazmu
 
 Rozilik qaytarib olingandan so'ng ma'lumotlar 30 kun ichida yo'q qilinadi.
 
-### 7.1. Telegram bildirishnomalari
+### 7.1. Bildirishnomalar
 
-Yangi xabar haqidagi bildirishnoma 200 belgigacha bo'lgan parchani o'z ichiga oladi va Telegram
-infratuzilmasi orqali yetkaziladi. Bu parcha Operator infratuzilmasini tark etadi va Telegram'ning
-ma'lumotlarni qayta ishlash qoidalariga bo'ysunadi. Xabarning to'liq matni, biriktirmalar va chat
-mazmuni bildirishnomaga kiritilmaydi.
+Yozishma mazmuni Operator infratuzilmasidan tashqariga chiqmaydi. Qisqa parchani o'z ichiga olgan
+yangi xabar bildirishnomasi faqat veb-ilovaga yetkaziladi.
+
+Telegram va boshqa ulangan messenjerlarga faqat voqea dalili — tekshiruvchi topilgani yoki muloqot
+so'rovi kelgani — uzatiladi. Xabar parchasi, uning to'liq matni, biriktirmalar va chat mazmuni
+messenjerga uzatilmaydi.
 
 ## 8. Himoya
 

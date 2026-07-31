@@ -4,7 +4,7 @@ sidebar_label: Ma'lumotlarga rozilik
 sidebar_position: 1
 ---
 
-Kuchga kirish sanasi: 29.07.2026
+Kuchga kirish sanasi: 31.07.2026
 
 Ushbu Rozilik Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi
 Federal qonunining 9-moddasi 1-qismiga muvofiq alohida hujjat sifatida rasmiylashtirilgan.
@@ -62,7 +62,8 @@ Operator quyida sanab o'tilgan ma'lumotlarni qayta ishlaydi va boshqa toifalarni
 
 - ikkala ishtirokchi o'zaro tekshiruvga rozi bo'lgandan so'ng chatda almashiladigan xabarlar matni;
 - xabarlarga biriktirilgan fayllar (rasmlar, hujjatlar, arxivlar);
-- bildirishnoma tarkibidagi xabarning qisqa parchasi (200 belgigacha).
+- veb-ilovaga yetkaziladigan bildirishnoma tarkibidagi xabarning qisqa parchasi (200 belgigacha);
+  bunday parcha Operator infratuzilmasidan tashqariga chiqmaydi.
 
 Chat mazmuni cheklangan muddat saqlanadi: yozishmalar tugagach, xabarlar matni va biriktirmalar
 o'chiriladi, faqat tekshiruv bo'lib o'tgani haqidagi yozuv qoladi. Saqlash muddati Maxfiylik
@@ -82,10 +83,13 @@ Rozilik faqat quyidagi maqsadlar uchun beriladi:
 
 1. Школа 21 hisobiga egalikni tasdiqlash va Pir2Pir hisobini yaratish;
 2. o'quv loyihalarini o'zaro tekshirish uchun ishtirokchilarni topish va moslashtirish;
-3. login bo'yicha qidirayotgan boshqa tasdiqlangan ishtirokchilarga ishtirokchi kartasini ko'rsatish;
-4. Telegram orqali xizmat bildirishnomalarini yetkazish;
-5. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
-6. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
+3. aniq Школа 21 logini bo'yicha ko'rsatilgan muayyan ishtirokchiga muloqot so'rovini yuborish;
+4. o'zaro tekshiruvga yoki muloqotga rozi bo'lgan ishtirokchilar o'rtasida yozishmani ta'minlash;
+5. ulangan kanallarga (veb-ilova, Telegram-bot) xizmat bildirishnomalarini yetkazish;
+6. ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga bitta taklif
+   yuborish — 6.2-bo'lim doirasi va shartlari asosida;
+7. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
+8. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
 
 Boshqa maqsadlarda — xususan reklama, targ'ibot yoki rekruting va boshqa tijorat xizmatlariga
 uzatish — qayta ishlash **ushbu Rozilik bilan qamrab olinmagan** va alohida rozilik talab qiladi.
@@ -102,12 +106,58 @@ qilmaydi.
 
 ## 6. Boshqa ishtirokchilarga oshkor qilish
 
-Tasdiqlangan ishtirokchilar Школа 21 logini bo'yicha ishtirokchi kartasini topishi mumkin. Kartada
-login, ism, daraja va tajriba, to'lqin, shuningdek o'rnatilgan bo'lsa Telegram foydalanuvchi nomi va
-profil rasmi ko'rsatiladi.
+Xizmatda ishtirokchilar katalogi yuritilmaydi va odamlar bo'yicha qidiruv taqdim etilmaydi. Muayyan
+ishtirokchiga murojaat qilish uchun uning aniq Школа 21 loginini oldindan bilish zarur; xizmat
+loginning bir qismi bo'yicha taklif yoki moslama bermaydi.
 
-Telegram foydalanuvchi nomi va profil rasmini boshqa ishtirokchilarga oshkor qilish — **ushbu
-Rozilikning bevosita predmeti**: usiz ishtirokchi qidiruvi ishlamaydi.
+Shaxs faqat rozilik berilgan paytda oshkor qilinadi. Tekshiruvchi qidirilayotgan vaqtda nomzodga
+o'quv loyihasi va kampus ma'lum qilinadi, kim qidirayotgani esa aytilmaydi. O'zaro rozilikdan so'ng
+ishtirokchilar login, ism, daraja va tajriba, to'lqin hamda o'rnatilgan bo'lsa profil rasmini
+ko'radi.
+
+**Operator bir ishtirokchining messenjerdagi hisoblarini, elektron pochtasini yoki boshqa aloqa
+ma'lumotlarini boshqasiga oshkor qilmaydi.** Agar ishtirokchilar muloqotni xizmatdan tashqarida davom
+ettirishga qaror qilsa, bunday ma'lumotlarni bir-biriga o'zlari, yozishmada beradi va oshkor qilishni
+Operator amalga oshirmaydi.
+
+### 6.1. Chat mazmuni
+
+Chatdagi xabarlar faqat uning ikki ishtirokchisiga ochiq. Operator ularni xizmatning boshqa
+foydalanuvchilariga taqdim etmaydi.
+
+**Yozishma mazmuni Operator infratuzilmasidan tashqariga chiqmaydi.** Yangi xabar haqidagi
+bildirishnoma faqat veb-ilovaga yetkaziladi. Messenjerga faqat tekshiruvchi topilgani yoki muloqot
+so'rovi kelgani haqidagi dalil bildiriladi; xabar parchasi ham, to'liq matni ham, biriktirmalar ham
+messenjerga uzatilmaydi.
+
+### 6.2. Xizmatda ro'yxatdan o'tmagan talabaga murojaat
+
+Agar ishtirokchi ko'rsatgan login xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga tegishli bo'lsa,
+ishtirokchi unga **bitta qisqa taklif** yuborishi mumkin. Operator uni o'z nomidan, Школа 21 qoidasi
+bo'yicha logindan hosil qilinadigan elektron pochta manziliga va (yoki) Школа 21 ichki chatiga
+yetkazadi.
+
+Taklifga quyidagilar kiritiladi: yuboruvchining logini, u yozgan matn, xizmatning qisqacha tavsifi va
+rad etish havolasi. Yuboruvchi va oluvchi haqida boshqa ma'lumotlar uzatilmaydi; **yuboruvchiga
+oluvchining manzili berilmaydi** — unga faqat `g*****@…` ko'rinishidagi niqoblangan ishora
+ko'rsatiladi.
+
+Qayta ishlash quyidagicha cheklangan:
+
+- 30 kun ichida bitta yuboruvchidan bitta oluvchiga bittadan ortiq taklif emas;
+- 30 kun ichida barcha yuboruvchilardan bitta oluvchiga uchtadan ortiq taklif emas;
+- bitta yuboruvchidan sutkasiga o'ntadan ortiq taklif emas.
+
+**Rad etish.** Har bir taklifda havola bo'ladi; u bo'yicha rad etish darhol, muddatsiz va barcha
+kanallar uchun kuchga kiradi, hisob talab qilmaydi va sabab ko'rsatishni talab qilmaydi. Rad etishdan
+so'ng Operator bu login bo'yicha hech qanday xabar yubormaydi. Oluvchi keyinchalik xizmatda ro'yxatdan
+o'tsa ham, rad etish saqlanib qoladi.
+
+Taklif oluvchi xizmat ishtirokchisi emas va ushbu Rozilikni bermagan. Uning loginini va undan hosil
+qilingan manzilni qayta ishlash asosi — ishtirokchi tashabbusi bilan unga bitta xabar yuborilishi;
+xabarning o'zi ayni paytda oluvchini u haqida qanday ma'lumotlar qayta ishlanayotgani, ular qayerdan
+olingani va qayta ishlashni qanday to'xtatish mumkinligi haqida xabardor qilish vazifasini bajaradi.
+Bunday oluvchi uchun hisob yaratilmaydi.
 
 ## 7. Amal qilish muddati va rozilikni qaytarib olish
 
