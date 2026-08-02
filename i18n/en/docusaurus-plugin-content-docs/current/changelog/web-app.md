@@ -7,6 +7,14 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
+## 1.17.0 — 2026-08-02
+
+**Invite a peer.** Your own code, and two links that carry it — one opens the app, the other opens the bot. Tap the code or either link to copy it. Anybody who signs up holding it is recorded as yours, and they appear under "Joined through you" as soon as their account exists.
+
+**Who has brought the most.** A board of it, with the way off the board on the same screen: hiding takes your name off and leaves your place, so nobody moves up by you stepping back.
+
+**How it works** gained a third answer, on inviting.
+
 ## 1.16.0 — 2026-08-02
 
 **How it works.** Short answers to the two things everybody asks — how to find a peer, and how the review search works. Each one ends on the button that does it.
