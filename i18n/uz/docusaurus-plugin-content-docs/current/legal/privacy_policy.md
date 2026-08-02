@@ -4,7 +4,7 @@ sidebar_label: Maxfiylik siyosati
 sidebar_position: 2
 ---
 
-Kuchga kirish sanasi: 31.07.2026
+Kuchga kirish sanasi: 02.08.2026
 
 Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi Federal
 qonunining 18.1-moddasi 1-qismi 2-bandiga muvofiq e'lon qilingan.
@@ -29,7 +29,8 @@ shaxsiy ma'lumotlar bo'yicha murojaatlar legal@pir2pir.ru.
 
 ## 2. "Школа 21" bilan munosabat
 
-Pir2Pir — hamjamiyat a'zosi tomonidan yaratilgan mustaqil xizmat. Operator ANO «Школа 21» emas,
+Pir2Pir (kirill yozuvida «Пир2Пир» — xuddi shu nom) — hamjamiyat a'zosi tomonidan yaratilgan
+mustaqil xizmat. Operator ANO «Школа 21» emas,
 u bilan aloqador emas va uning nomidan ish yuritmaydi. Pir2Pir'dan foydalanish ta'lim jarayonining qismi emas.
 
 Operator "Школа 21"ning huquqiy asoslarini meros qilib olmaydi va shaxsiy ma'lumotlarni subyekt
@@ -55,6 +56,9 @@ To'liq ro'yxat [Rozilik](./consent.md)ning 3-bo'limida. Qisqacha:
 | Kampus, to'lqin, ta'lim shakli, daraja, ballar, loyihalar | Школа 21 ochiq API'si |
 | Ichki identifikatorlar va so'rovlar jurnali | xizmat tomonidan shakllantiriladi |
 | Ro'yxatdan o'tmagan talabaning logini va undan hosil qilingan manzil | ishtirokchi ko'rsatadi; login mavjudligi Школа 21 ochiq API'sida tekshiriladi |
+| Daraja, tajriba va ballarning kunlik tarixi; loyihalar holatining o'zgarishi | xizmat Школа 21 ochiq API ma'lumotlaridan shakllantiradi |
+| Login va ism bilan birga chop etiladigan xizmat haqidagi sharh matni | ishtirokchining o'zi yozadi |
+| Taklif kodi, «kim kimni taklif qilgani» bog'lanishi va reytingdagi o'rin | xizmat shakllantiradi |
 
 ## 5. Huquqiy asos
 
@@ -68,7 +72,18 @@ ro'yxatdan o'tmagan Школа 21 talabalari haqida ma'lumot yig'maydi. Boshqa i
 profillari faqat mustaqil ro'yxatdan o'tgan va Rozilik bergan shaxslarga, faqat o'zaro muloqotga
 rozilik berilgandan keyin oshkor qilinadi.
 
-Yagona istisno — ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga
+Bu qoidadan yana ikkita istisno bor va ikkalasi ham faqat ishtirokchining o'z tashabbusi bilan
+yuzaga keladi:
+
+- **Xizmat haqidagi sharh.** Chop etilgan sharh muallifning logini va ismi bilan birga cheklanmagan
+  doiradagi shaxslar uchun ochiq bo'ladi. Chop etish faqat Operator tekshiruvidan keyin va faqat
+  ishtirokchi sharhni o'zi yozgan bo'lsa mumkin; uni istalgan vaqtda qaytarib olish mumkin. Shartlar —
+  [Rozilik](./consent.md)ning 6.3-bo'limi.
+- **Taklif qilinganlar soni bo'yicha reyting.** Ro'yxatdan o'tgan ishtirokchilar uchun ochiq, xizmatdan
+  tashqarida chop etilmaydi. O'z logini va suratining reytingda ko'rsatilishini sozlamalarda
+  o'chirish mumkin. Shartlar — [Rozilik](./consent.md)ning 6.4-bo'limi.
+
+Qolgan istisno — ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga
 yuboriladigan taklif. Bu holda Operator shu shaxsning loginini, undan hosil qilingan elektron pochta
 manzilini, taklif matnini va yetkazish belgisini qayta ishlaydi.
 
@@ -91,6 +106,9 @@ Shartlar va cheklovlar [Rozilik](./consent.md)ning 6.2-bo'limida keltirilgan.
 | So'rovlar jurnali | 90 kundan oshmagan |
 | Ro'yxatdan o'tmagan talabalarga takliflar | 12 oy, so'ngra o'chiriladi |
 | Takliflardan rad etish | muddatsiz — taqiqni bajarish uchun yozuv zarur |
+| Daraja, tajriba, ballar va loyiha holatlari tarixi | rozilik qaytarib olinguncha yoki hisob o'chirilguncha |
+| Xizmat haqidagi sharh | ishtirokchi uni qaytarib olguncha yoki hisob o'chirilguncha |
+| «Kim kimni taklif qilgani» bog'lanishi | ikki hisobdan biri o'chirilguncha |
 | Qonun bo'yicha saqlanishi shart ma'lumotlar | qonunda belgilangan muddatda |
 
 Yozishmalar tugagach — ishtirokchilardan biri yopgani yoki faolsizlik muddati o'tgani sababli —

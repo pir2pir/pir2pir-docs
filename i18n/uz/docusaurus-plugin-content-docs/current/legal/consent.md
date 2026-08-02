@@ -4,7 +4,7 @@ sidebar_label: Ma'lumotlarga rozilik
 sidebar_position: 1
 ---
 
-Kuchga kirish sanasi: 31.07.2026
+Kuchga kirish sanasi: 02.08.2026
 
 Ushbu Rozilik Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi
 Federal qonunining 9-moddasi 1-qismiga muvofiq alohida hujjat sifatida rasmiylashtirilgan.
@@ -23,7 +23,7 @@ Yuridik kuchga ega bo'lgan matn — ruscha nusxa. Ushbu tarjima qulaylik uchun b
 | OGRNIP | 326028000044859 |
 | OKVED | 62.01 "Kompyuter dasturiy ta'minotini ishlab chiqish" |
 | Roskomnadzor operatorlar reyestri | [№ 2-26-056967](https://pd.rkn.gov.ru/operators-registry/operators-list/?id=2-26-056967) |
-| Xizmat | Pir2Pir — Telegram-bot [@pir2pirbot](https://t.me/pir2pirbot) va tegishli xizmatlar |
+| Xizmat | Pir2Pir (kirill yozuvida «Пир2Пир» — xuddi shu nom) — Telegram-bot [@pir2pirbot](https://t.me/pir2pirbot) va tegishli xizmatlar |
 | Aloqa | legal@pir2pir.ru |
 
 Pir2Pir mustaqil ma'lumotlar operatoridir. Operator ANO «Школа 21» bilan aloqador emas va uning
@@ -51,8 +51,14 @@ Operator quyida sanab o'tilgan ma'lumotlarni qayta ishlaydi va boshqa toifalarni
 ### 3.2. Школа 21 ochiq API'sidan olinadigan o'quv profili
 
 - kampus, to'lqin va ta'lim shakli;
-- daraja, tajriba, ichki ballar va review points;
-- loyihalar ro'yxati va ularning holati.
+- daraja, tajriba, ichki ballar, code review points va peer review points;
+- subyekt qatnashayotgan loyihalar ro'yxati va ularning holati;
+- yuqoridagi ko'rsatkichlar tarixi: daraja, tajriba va ballarning kunlik kesimi, shuningdek
+  loyihalarning bir holatdan boshqasiga o'tishi haqidagi yozuvlar.
+
+Tarix yuritiladi, chunki Школа 21 ochiq API'si faqat joriy qiymatni beradi va oldingisini qayta
+yozadi: kesim saqlanmasa, o'qish dinamikasi haqidagi ma'lumot butunlay yo'qoladi. Tarix subyektning
+o'ziga ochiq bo'lib, boshqa ishtirokchilarga oshkor qilinmaydi.
 
 ### 3.3. Tasvir
 
@@ -74,6 +80,21 @@ siyosatida ko'rsatilgan.
 - Pir2Pir hisobining ichki identifikatorlari;
 - diagnostika va xavfsizlik uchun zarur bo'lgan so'rovlar jurnali.
 
+### 3.6. Xizmat haqidagi sharh
+
+- subyekt o'z tashabbusi bilan yozgan sharh matni;
+- sharh yonida ko'rsatiladigan Школа 21 logini va subyektning ismi.
+
+Sharh xizmatning ommaviy sahifasida chop etiladi va cheklanmagan doiradagi shaxslar uchun, shu
+jumladan ishtirokchi bo'lmaganlar uchun ham ochiq bo'ladi. Shartlar 6.3-bo'limda keltirilgan.
+
+### 3.7. Boshqa ishtirokchini taklif qilish (referal bog'lanish)
+
+- xizmat har bir ishtirokchi uchun shakllantiradigan shaxsiy taklif kodi;
+- qaysi ishtirokchi boshqa ishtirokchining kodi bo'yicha ro'yxatdan o'tgani va bunday ro'yxatdan
+  o'tish sanasi;
+- taklif qilinganlar soni bo'yicha reytingdagi o'rni.
+
 Operator maxsus toifadagi shaxsiy ma'lumotlarni (10-modda) va biometrik shaxsiy ma'lumotlarni
 (11-modda) qayta ishlamaydi.
 
@@ -88,8 +109,13 @@ Rozilik faqat quyidagi maqsadlar uchun beriladi:
 5. ulangan kanallarga (veb-ilova, Telegram-bot) xizmat bildirishnomalarini yetkazish;
 6. ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga bitta taklif
    yuborish — 6.2-bo'lim doirasi va shartlari asosida;
-7. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
-8. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
+7. subyekt o'z tashabbusi bilan yozgan xizmat haqidagi sharhni chop etish — 6.3-bo'lim doirasi va
+   shartlari asosida;
+8. takliflarni hisobga olish: qaysi ishtirokchi boshqa ishtirokchining kodi bo'yicha qo'shilganini
+   aniqlash va taklif qilinganlar soni bo'yicha reytingni ko'rsatish — 6.4-bo'lim doirasi va
+   shartlari asosida;
+9. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
+10. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
 
 Boshqa maqsadlarda — xususan reklama, targ'ibot yoki rekruting va boshqa tijorat xizmatlariga
 uzatish — qayta ishlash **ushbu Rozilik bilan qamrab olinmagan** va alohida rozilik talab qiladi.
@@ -158,6 +184,41 @@ qilingan manzilni qayta ishlash asosi — ishtirokchi tashabbusi bilan unga bitt
 xabarning o'zi ayni paytda oluvchini u haqida qanday ma'lumotlar qayta ishlanayotgani, ular qayerdan
 olingani va qayta ishlashni qanday to'xtatish mumkinligi haqida xabardor qilish vazifasini bajaradi.
 Bunday oluvchi uchun hisob yaratilmaydi.
+
+### 6.3. Xizmat haqidagi sharhni chop etish
+
+Ishtirokchi xizmat haqida sharh yozishi mumkin. Sharh avtomatik chop etilmaydi: u Operator
+tekshiruvidan o'tadi va faqat shundan keyin ommaviy bo'ladi.
+
+Chop etilgandan so'ng sharh **cheklanmagan doiradagi shaxslar** uchun, shu jumladan xizmatda
+ro'yxatdan o'tmagan va ushbu Rozilikni bermagan shaxslar uchun ham ochiq bo'ladi. Matn yonida
+muallifning Школа 21 logini va ismi ko'rsatiladi; familiya chop etilmaydi.
+
+Bu ishtirokchi haqidagi ma'lumot xizmat ishtirokchilari doirasidan tashqariga chiqadigan yagona holat
+bo'lib, faqat ishtirokchining o'z tashabbusi bilan sodir bo'ladi.
+
+Ishtirokchi istalgan vaqtda sharhni qaytarib olishi mumkin — u ommaviy sahifadan o'chiriladi. Operator
+o'chirishdan oldin uchinchi shaxslar, shu jumladan qidiruv tizimlari tomonidan olingan nusxalarni
+nazorat qilmaydi: sharh xizmatdan o'chiriladi, lekin boshqalarning arxividan emas.
+
+Chop etilgan sharhni o'zgartirish uni qayta tekshiruvga qaytaradi va tekshiruv tugagunicha
+chop etishdan olib qo'yadi.
+
+### 6.4. Takliflar va reyting
+
+Har bir ishtirokchi uchun shaxsiy taklif kodi shakllantiriladi. Agar boshqa shaxs shu kod orqali
+ro'yxatdan o'tsa, Operator ikki hisob o'rtasidagi bog'lanishni va taklif qilingan ishtirokchining
+ro'yxatdan o'tish sanasini saqlaydi.
+
+Taklif qilingan ishtirokchi uni kim taklif qilganini, taklif qilgan ishtirokchi esa o'z kodi bo'yicha
+qo'shilganlar ro'yxatini login va ro'yxatdan o'tish sanasi bilan ko'radi.
+
+Taklif qilinganlar soni bo'yicha reyting **ro'yxatdan o'tgan ishtirokchilar** uchun ochiq bo'lib,
+xizmatdan tashqarida chop etilmaydi. Ishtirokchi istalgan vaqtda o'z logini va suratining reytingda
+ko'rsatilishini sozlamalarda o'chirishi mumkin: o'rni saqlanadi, qator esa ismsiz ko'rsatiladi.
+
+Operator e'tibor qaratadiki, ishtirokchilar soni oz bo'lganda ismni yashirish anonimlikni
+kafolatlamaydi: ishtirokchini istisno qilish usuli bilan aniqlash mumkin.
 
 ## 7. Amal qilish muddati va rozilikni qaytarib olish
 

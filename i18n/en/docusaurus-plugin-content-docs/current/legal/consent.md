@@ -4,7 +4,7 @@ sidebar_label: Consent to Data Processing
 sidebar_position: 1
 ---
 
-Effective date: 31.07.2026
+Effective date: 02.08.2026
 
 This Consent is executed as a separate document under Article 9(1) of Russian Federal Law
 No. 152-FZ of 27.07.2006 "On Personal Data". Accepting the [Terms of Use](./terms.md) does not grant
@@ -23,7 +23,7 @@ The Russian version is the legally binding one. This translation is provided for
 | OGRNIP | 326028000044859 |
 | OKVED | 62.01 "Computer software development" |
 | Roskomnadzor operator registry | [No. 2-26-056967](https://pd.rkn.gov.ru/operators-registry/operators-list/?id=2-26-056967) |
-| Service | Pir2Pir — Telegram bot [@pir2pirbot](https://t.me/pir2pirbot) and related services |
+| Service | Pir2Pir (also written «Пир2Пир» in Cyrillic — the same name) — Telegram bot [@pir2pirbot](https://t.me/pir2pirbot) and related services |
 | Contact | legal@pir2pir.ru |
 
 Pir2Pir is an independent data operator. The Operator is not affiliated with ANO «Школа 21»
@@ -51,8 +51,14 @@ The Operator processes the data listed below and requests no other categories.
 ### 3.2. Study profile, retrieved from the School 21 public API
 
 - campus, wave and education form;
-- level, experience, internal points and review points;
-- list of projects and their statuses.
+- level, experience, internal points, code review points and peer review points;
+- the list of projects the subject takes part in, and their statuses;
+- the history of those figures: a daily snapshot of level, experience and points, and records of
+  projects moving from one status to another.
+
+The history is kept because the public School 21 API reports only the current value and overwrites
+the previous one: without a snapshot, any record of how someone progressed would be lost for good. It
+is available to the subject and is not disclosed to other participants.
 
 ### 3.3. Image
 
@@ -74,6 +80,21 @@ Privacy Policy.
 - internal Pir2Pir account identifiers;
 - service request logs required for diagnostics and security.
 
+### 3.6. Review of the service
+
+- the text of a review the subject writes on their own initiative;
+- the subject's School 21 login and first name, shown beside it.
+
+A review is published on a public page of the service and becomes available to an unlimited audience,
+including people who are not participants. The conditions are set out in section 6.3.
+
+### 3.7. Inviting another participant (referral link)
+
+- the personal invitation code the service generates for each participant;
+- the record of which participant registered using another participant's code, and the date of that
+  registration;
+- the participant's position in the ranking by number of people invited.
+
 The Operator does **not** process special categories of personal data (Article 10) or biometric
 personal data (Article 11).
 
@@ -88,8 +109,13 @@ Consent is granted solely for the following purposes:
 5. delivering service notifications to connected channels (web application, Telegram bot);
 6. sending a single invitation to a School 21 student who is not registered with the service, at a
    participant's request — within the scope and on the terms of section 6.2;
-7. handling support requests;
-8. complying with the legislation of the Russian Federation.
+7. publishing a review of the service written by the subject on their own initiative — within the
+   scope and on the terms of section 6.3;
+8. accounting for invitations: recording which participants joined through another participant's
+   code, and displaying the ranking by number of people invited — within the scope and on the terms
+   of section 6.4;
+9. handling support requests;
+10. complying with the legislation of the Russian Federation.
 
 Processing for any other purpose — in particular advertising, promotion, or transfer to recruiting or
 other commercial services — is **not covered by this Consent** and requires separate consent.
@@ -152,6 +178,40 @@ The recipient of an invitation is not a participant and has not given this Conse
 processing their login and the address derived from it is the sending of a single message at a
 participant's initiative; the message itself serves as notice to the recipient of what is processed
 about them, where it came from and how to stop it. No account is created for such a recipient.
+
+### 6.3. Publishing a review of the service
+
+A participant may write a review of the service. It is not published automatically: the Operator
+reviews it first, and only then does it become public.
+
+Once published, the review is available to an **unlimited audience**, including people who are not
+registered with the service and have not given this Consent. The author's School 21 login and first
+name are shown beside the text; the surname is not published.
+
+This is the only case in which information about a participant is disclosed beyond the circle of
+participants, and it happens only on that participant's own initiative.
+
+A participant may withdraw the review at any time, and it is removed from the public page. The
+Operator does not control copies made by third parties before removal, including search engines: the
+review is removed from the service, but not from anyone else's archive.
+
+Editing a published review returns it for re-checking and removes it from publication until that is
+done.
+
+### 6.4. Invitations and the ranking
+
+Each participant is given a personal invitation code. If another person registers using it, the
+Operator records the link between the two accounts and the date the invited participant registered.
+
+The invited participant can see who invited them, and the inviting participant can see the list of
+people who joined with their code, with login and registration date.
+
+The ranking by number of people invited is available **to registered participants** and is not
+published outside the service. A participant may at any time turn off the display of their login and
+photograph in the ranking: their position is kept, and the row is shown without a name.
+
+The Operator notes that with a small number of participants, hiding a name does not guarantee
+anonymity — a participant may be identified by elimination.
 
 ## 7. Validity and withdrawal
 
