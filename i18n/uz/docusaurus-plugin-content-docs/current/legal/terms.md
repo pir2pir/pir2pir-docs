@@ -4,9 +4,10 @@ sidebar_label: Foydalanish shartlari
 sidebar_position: 3
 ---
 
-Kuchga kirish sanasi: 31.07.2026
+Kuchga kirish sanasi: 02.08.2026
 
-Ushbu Shartlar Pir2Pir xizmatidan foydalanishni tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
+Ushbu Shartlar Pir2Pir (kirill yozuvida «Пир2Пир» — xuddi shu nom) xizmatidan foydalanishni
+tartibga soladi. Shaxsiy ma'lumotlarni qayta ishlash
 alohida [Rozilik](./consent.md) va [Maxfiylik siyosati](./privacy_policy.md) bilan tartibga solinadi.
 
 :::note[Tarjima]
@@ -77,6 +78,35 @@ murojaatlar taqiqlanadi hamda xizmatga kirishni cheklashga olib keladi.
 
 Chastota cheklovlari va oluvchining rad etish huquqi [Rozilik](./consent.md)ning 6.2-bo'limida
 keltirilgan.
+
+## 6.2. Xizmat haqidagi sharh
+
+Foydalanuvchi xizmat haqida bitta sharh yozishi mumkin. Sharh darhol chop etilmaydi: u Operator
+tekshiruvidan o'tadi va faqat shundan keyin muallifning logini va ismi bilan birga ommaviy sahifada
+paydo bo'ladi.
+
+Sharhni chop etar ekan, foydalanuvchi matn cheklanmagan doiradagi shaxslar uchun ochiq bo'lishiga
+rozilik bildiradi hamda matnni o'zi yozganini, unda uchinchi shaxslarning shaxsiy ma'lumotlari,
+haqoratlar, reklama va tarqatilishi cheklangan ma'lumotlar yo'qligini tasdiqlaydi.
+
+Operator chop etishdan bosh tortishi mumkin, sababini muallifga ko'rsatgan holda. Foydalanuvchi
+istalgan vaqtda sharhni qaytarib olishi mumkin; chop etilgan sharhni o'zgartirish uni qayta
+tekshiruvgacha chop etishdan olib qo'yadi.
+
+Operator o'chirishdan oldin uchinchi shaxslar, shu jumladan qidiruv tizimlari tomonidan olingan
+nusxalarni nazorat qilmaydi.
+
+## 6.3. Ishtirokchilarni taklif qilish va reyting
+
+Har bir foydalanuvchi uchun shaxsiy taklif kodi shakllantiriladi. Agar shu kod bo'yicha xizmatda
+boshqa shaxs ro'yxatdan o'tsa, hisoblar o'rtasidagi bog'lanish saqlanadi va foydalanuvchi taklif
+qilinganlar soni bo'yicha reytingda hisobga olinadi.
+
+Reyting ro'yxatdan o'tgan ishtirokchilar uchun ochiq bo'lib, xizmatdan tashqarida chop etilmaydi. O'z
+logini va suratining reytingda ko'rsatilishini sozlamalarda o'chirish mumkin; o'rin saqlanadi.
+
+Reytingni sun'iy oshirish uchun hisoblar yaratish, mavjud bo'lmagan shaxslarni taklif qilish va
+hisobni buzadigan boshqa harakatlar taqiqlanadi hamda xizmatga kirishni cheklashga olib keladi.
 
 ## 7. Javobgarlik
 

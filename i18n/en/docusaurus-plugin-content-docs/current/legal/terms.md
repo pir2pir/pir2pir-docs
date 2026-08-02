@@ -4,9 +4,9 @@ sidebar_label: Terms of Use
 sidebar_position: 3
 ---
 
-Effective date: 31.07.2026
+Effective date: 02.08.2026
 
-These Terms govern use of the Pir2Pir service. Personal data processing is governed by the separate
+These Terms govern use of the Pir2Pir service (also written «Пир2Пир» in Cyrillic — the same name). Personal data processing is governed by the separate
 [Consent](./consent.md) and the [Privacy Policy](./privacy_policy.md).
 
 :::note[Translation]
@@ -76,6 +76,31 @@ access to the service being restricted.
 
 Frequency limits and the recipient's right to opt out are set out in section 6.2 of the
 [Consent](./consent.md).
+
+## 6.2. Review of the service
+
+A user may write one review of the service. It is not published immediately: the Operator checks it,
+and only then does it appear on a public page together with the author's login and first name.
+
+By publishing a review the user agrees that the text will become available to an unlimited audience,
+and confirms that they wrote it and that it contains no personal data of third parties, no insults, no
+advertising and nothing whose distribution is restricted.
+
+The Operator may decline to publish, giving the author the reason. A user may withdraw a review at any
+time; editing a published review removes it from publication until it has been checked again.
+
+The Operator does not control copies made by third parties before removal, including search engines.
+
+## 6.3. Invitations and the ranking
+
+Each user is given a personal invitation code. If another person registers with it, the link between
+the accounts is kept and the user is counted in the ranking by number of people invited.
+
+The ranking is available to registered participants and is not published outside the service. Display
+of one's login and photograph in the ranking can be turned off in the settings; the position is kept.
+
+Creating accounts to inflate the ranking, inviting people who do not exist, and any other action that
+distorts the count are prohibited and will result in restricted access to the service.
 
 ## 7. Liability
 
