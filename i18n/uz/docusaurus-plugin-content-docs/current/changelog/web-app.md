@@ -7,6 +7,14 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.17.0 — 2026-08-02
+
+**Pirni taklif qilish.** O‘z kodingiz va uni olib yuradigan ikkita havola: biri ilovani, ikkinchisi botni ochadi. Nusxalash uchun kodni yoki havolani bosing. Kod bilan ro‘yxatdan o‘tgan har kim sizga yoziladi va «Sizning havolangiz bilan kelganlar» ro‘yxatida paydo bo‘ladi.
+
+**Kim ko‘proq olib kelgan.** Reyting, va o‘sha yerda undan chiqish yo‘li ham: ism olib tashlanadi, o‘rin qoladi — siz yashiringaningiz uchun hech kim yuqoriga ko‘tarilmaydi.
+
+**«Bu qanday ishlaydi»** uchinchi javob bilan to‘ldi — taklif qilish haqida.
+
 ## 1.16.0 — 2026-08-02
 
 **Bu qanday ishlaydi.** Eng ko‘p beriladigan ikki savolga qisqa javob — pirni qanday topish va ko‘rib chiquvchi qidiruvi qanday ishlashi. Har birining oxirida — shuni bajaradigan tugma.
