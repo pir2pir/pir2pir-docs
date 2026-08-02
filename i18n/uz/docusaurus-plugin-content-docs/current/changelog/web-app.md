@@ -13,6 +13,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Kim ko‘proq olib kelgan.** Reyting, va o‘sha yerda undan chiqish yo‘li ham: ism olib tashlanadi, o‘rin qoladi — siz yashiringaningiz uchun hech kim yuqoriga ko‘tarilmaydi.
 
+**Pir2Pir ID Chat Guard.** O‘z sahifasi bilan: siz admin bo‘lgan Telegram chatiga gardni ulashning to‘liq tartibi — botga qaysi ikki huquq va nega kerakligi, uchta buyruq, bildirishnoma va so‘rovlarni qayerga yo‘naltirish mumkinligi va avval qayerda sinab ko‘rish kerakligi.
+
 **Telegram’da ulashish.** Bir bosishda havola Telegram’ning chat tanlash oynasiga, tayyor xabar bilan tushadi: ilovada, brauzerda va bosh ekrandagi ilovada.
 
 **«Bu qanday ishlaydi»** uchinchi javob bilan to‘ldi — taklif qilish haqida.

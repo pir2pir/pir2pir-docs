@@ -13,6 +13,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Who has brought the most.** A board of it, with the way off the board on the same screen: hiding takes your name off and leaves your place, so nobody moves up by you stepping back.
 
+**Pir2Pir ID Chat Guard.** Its own page, with the whole procedure for turning the join gate on in a Telegram chat you administer: the two rights the bot asks for and why, the three commands, where notifications and request reviews can go, and what to try in a chat that does not matter first.
+
 **Share in Telegram.** One tap hands the link to Telegram's own chat picker, with the message already written — in the app, in a browser, and from an app on your home screen.
 
 **How it works** gained a third answer, on inviting.
