@@ -13,6 +13,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Who has brought the most.** A board of it, with the way off the board on the same screen: hiding takes your name off and leaves your place, so nobody moves up by you stepping back.
 
+**Share in Telegram.** One tap hands the link to Telegram's own chat picker, with the message already written — in the app, in a browser, and from an app on your home screen.
+
 **How it works** gained a third answer, on inviting.
 
 ## 1.16.0 — 2026-08-02
