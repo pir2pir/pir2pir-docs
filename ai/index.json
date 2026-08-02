@@ -7,6 +7,7 @@
     "docs_root": "docs/",
     "i18n_root": "i18n/",
     "legal_root": "docs/legal/",
+    "changelog_root": "docs/changelog/",
     "registry_links": "registry/links.json",
     "agent_rules": "AGENTS.md",
     "project_readme": "README.md"
@@ -16,6 +17,7 @@
     "Pushes to production trigger a rebuild in the engine repo via GitHub Actions.",
     "docs/legal/consent.md must remain a standalone document: 152-FZ requires consent to be separate from the terms of use.",
     "Russian is the binding version of every legal document; translations carry a precedence note.",
-    "The Telegram bot links to these pages from its consent screen — keep registry/links.json in sync."
+    "The Telegram bot links to these pages from its consent screen — keep registry/links.json in sync.",
+    "docs/changelog/ is mirrored from pir2pir-web-app/docs/changelog/ — edits belong in that repo."
   ]
 }

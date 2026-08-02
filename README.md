@@ -10,6 +10,7 @@ build and deploy live in [pir2pir-docs-site](https://github.com/pir2pir/pir2pir-
 | `docs/` | Russian source (default locale) |
 | `i18n/en/docusaurus-plugin-content-docs/current/` | English translations |
 | `i18n/uz/docusaurus-plugin-content-docs/current/` | Uzbek translations |
+| `docs/changelog/` | mirrored from the repo of the thing described — edit it there |
 | `registry/links.json` | canonical routes, kept in sync with the bot's links |
 | `ai/` | shareable project context for AI-assisted work |
 
@@ -19,6 +20,12 @@ Locales: `ru` (default), `en`, `uz`. A page missing a translation falls back to 
 
 Push to `production` triggers a rebuild in the site repo via `repository_dispatch`. Nothing else is
 required — the site clones this repo during its build.
+
+`docs/changelog/` is written by a machine, not by hand: pir2pir-web-app pushes the three pages here
+when its own changelog changes, to `develop` and `production` alike, and the push to `production`
+starts the rebuild like any other. It is the one thing in this repo that does not wait to be
+promoted — a changelog entry describes something that has already happened, and both branches
+carrying it means promoting `develop` cannot revert one.
 
 ## Legal documents
 
