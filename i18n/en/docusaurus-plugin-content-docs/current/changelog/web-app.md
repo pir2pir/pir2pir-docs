@@ -13,6 +13,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Who has brought the most.** A board of it, with the way off the board on the same screen: hiding takes your name off and leaves your place, so nobody moves up by you stepping back.
 
+**Leave feedback.** Say what Pir2Pir is like to use, in a few sentences. It is read before it appears on the site, and it appears with your school login beside it — which the screen says before you write rather than after. Beside it, what other peers have said.
+
 **Pir2Pir ID Chat Guard.** Its own page and an answer under How it works, with the whole procedure for turning the join gate on in a Telegram chat you administer: the two rights the bot asks for and why, the three commands, where notifications and request reviews can go, and what to try in a chat that does not matter first.
 
 **Two ways to hand the link over.** One tap opens Telegram's own chat picker with the message already written — in the app, in a browser, and from an app on your home screen — and beside it, on a phone, your device's own share sheet for everywhere else.
