@@ -31,7 +31,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Reading the news.** The channel you are on is a name in the header that opens the list, instead of a row of tabs to drag sideways.
 
-## Fixed
+## Fixed — 2026-08-02
 
 - Announcements read `:doge_dance:` where the school's own emoji belonged — about one headline in five.
 - An error sometimes showed an internal name instead of a sentence.
@@ -59,7 +59,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Reaching somebody who is not here yet.** Where a peer is at the school but not on Pir2Pir, the app offers to pass one message on — by email or Rocket.Chat — and tells you what happened on each.
 
-## Fixed
+## Fixed — 2026-08-01
 
 - A review search no longer ends the moment nobody is available. It keeps looking, and a match can arrive while you are away.
 - A chat stopped calling itself a review: "Close this chat?" rather than "End this review?".

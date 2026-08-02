@@ -31,7 +31,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Yangiliklarni o‘qish.** Joriy kanal — ro‘yxatni ochadigan, sarlavhadagi nom; yonma-yon suriladigan tablar o‘rniga.
 
-## Tuzatildi
+## Tuzatildi — 2026-08-02
 
 - E’lonlarda maktabning o‘z emojisi o‘rniga `:doge_dance:` ko‘rinishidagi matn turardi — taxminan har beshinchi sarlavhada.
 - Xato haqidagi jumla o‘rniga ba’zan ichki nom ko‘rsatilardi.
@@ -59,7 +59,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Bu yerda bo‘lmagan odamga yozish.** Juftlik maktabda bo‘lsa-yu, Pir2Pir’da bo‘lmasa, ilova unga bitta xabar yetkazishni taklif qiladi — pochta yoki Rocket.Chat orqali — va har biriga nima bo‘lganini ko‘rsatadi.
 
-## Tuzatildi
+## Tuzatildi — 2026-08-01
 
 - Hozircha ko‘rib chiqadigan odam bo‘lmasa, qidiruv darrov tugamaydi. U qidirishda davom etadi va siz yo‘qligingizda ham juftlik topilishi mumkin.
 - Suhbat o‘zini ko‘rib chiqish deb atashni bas qildi: «Ko‘rib chiqish tugatilsinmi?» emas, «Suhbat yopilsinmi?».
