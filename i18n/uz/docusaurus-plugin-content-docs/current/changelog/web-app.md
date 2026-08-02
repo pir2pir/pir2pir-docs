@@ -13,6 +13,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Kim ko‘proq olib kelgan.** Reyting, va o‘sha yerda undan chiqish yo‘li ham: ism olib tashlanadi, o‘rin qoladi — siz yashiringaningiz uchun hech kim yuqoriga ko‘tarilmaydi.
 
+**Telegram’da ulashish.** Bir bosishda havola Telegram’ning chat tanlash oynasiga, tayyor xabar bilan tushadi: ilovada, brauzerda va bosh ekrandagi ilovada.
+
 **«Bu qanday ishlaydi»** uchinchi javob bilan to‘ldi — taklif qilish haqida.
 
 ## 1.16.0 — 2026-08-02
