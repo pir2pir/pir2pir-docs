@@ -83,7 +83,7 @@ siyosatida ko'rsatilgan.
 ### 3.6. Xizmat haqidagi sharh
 
 - subyekt o'z tashabbusi bilan yozgan sharh matni;
-- sharh yonida ko'rsatiladigan Школа 21 logini va subyektning ismi.
+- sharh yonida ko'rsatiladigan Школа 21 logini.
 
 Sharh xizmatning ommaviy sahifasida chop etiladi va cheklanmagan doiradagi shaxslar uchun, shu
 jumladan ishtirokchi bo'lmaganlar uchun ham ochiq bo'ladi. Shartlar 6.3-bo'limda keltirilgan.
@@ -192,7 +192,7 @@ tekshiruvidan o'tadi va faqat shundan keyin ommaviy bo'ladi.
 
 Chop etilgandan so'ng sharh **cheklanmagan doiradagi shaxslar** uchun, shu jumladan xizmatda
 ro'yxatdan o'tmagan va ushbu Rozilikni bermagan shaxslar uchun ham ochiq bo'ladi. Matn yonida
-muallifning Школа 21 logini va ismi ko'rsatiladi; familiya chop etilmaydi.
+faqat muallifning Школа 21 logini ko'rsatiladi; ism va familiya chop etilmaydi.
 
 Bu ishtirokchi haqidagi ma'lumot xizmat ishtirokchilari doirasidan tashqariga chiqadigan yagona holat
 bo'lib, faqat ishtirokchining o'z tashabbusi bilan sodir bo'ladi.

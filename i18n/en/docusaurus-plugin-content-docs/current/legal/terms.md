@@ -80,7 +80,8 @@ Frequency limits and the recipient's right to opt out are set out in section 6.2
 ## 6.2. Review of the service
 
 A user may write one review of the service. It is not published immediately: the Operator checks it,
-and only then does it appear on a public page together with the author's login and first name.
+and only then does it appear on a public page together with the author's login. The first name and
+surname are not published.
 
 By publishing a review the user agrees that the text will become available to an unlimited audience,
 and confirms that they wrote it and that it contains no personal data of third parties, no insults, no

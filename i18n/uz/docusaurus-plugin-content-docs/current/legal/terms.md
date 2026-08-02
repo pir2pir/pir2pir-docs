@@ -82,8 +82,8 @@ keltirilgan.
 ## 6.2. Xizmat haqidagi sharh
 
 Foydalanuvchi xizmat haqida bitta sharh yozishi mumkin. Sharh darhol chop etilmaydi: u Operator
-tekshiruvidan o'tadi va faqat shundan keyin muallifning logini va ismi bilan birga ommaviy sahifada
-paydo bo'ladi.
+tekshiruvidan o'tadi va faqat shundan keyin muallifning logini bilan birga ommaviy sahifada paydo
+bo'ladi. Ism va familiya chop etilmaydi.
 
 Sharhni chop etar ekan, foydalanuvchi matn cheklanmagan doiradagi shaxslar uchun ochiq bo'lishiga
 rozilik bildiradi hamda matnni o'zi yozganini, unda uchinchi shaxslarning shaxsiy ma'lumotlari,

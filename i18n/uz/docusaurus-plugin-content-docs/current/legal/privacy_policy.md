@@ -57,7 +57,7 @@ To'liq ro'yxat [Rozilik](./consent.md)ning 3-bo'limida. Qisqacha:
 | Ichki identifikatorlar va so'rovlar jurnali | xizmat tomonidan shakllantiriladi |
 | Ro'yxatdan o'tmagan talabaning logini va undan hosil qilingan manzil | ishtirokchi ko'rsatadi; login mavjudligi Школа 21 ochiq API'sida tekshiriladi |
 | Daraja, tajriba va ballarning kunlik tarixi; loyihalar holatining o'zgarishi | xizmat Школа 21 ochiq API ma'lumotlaridan shakllantiradi |
-| Login va ism bilan birga chop etiladigan xizmat haqidagi sharh matni | ishtirokchining o'zi yozadi |
+| Login bilan birga chop etiladigan xizmat haqidagi sharh matni | ishtirokchining o'zi yozadi |
 | Taklif kodi, «kim kimni taklif qilgani» bog'lanishi va reytingdagi o'rin | xizmat shakllantiradi |
 
 ## 5. Huquqiy asos
@@ -75,8 +75,8 @@ rozilik berilgandan keyin oshkor qilinadi.
 Bu qoidadan yana ikkita istisno bor va ikkalasi ham faqat ishtirokchining o'z tashabbusi bilan
 yuzaga keladi:
 
-- **Xizmat haqidagi sharh.** Chop etilgan sharh muallifning logini va ismi bilan birga cheklanmagan
-  doiradagi shaxslar uchun ochiq bo'ladi. Chop etish faqat Operator tekshiruvidan keyin va faqat
+- **Xizmat haqidagi sharh.** Chop etilgan sharh muallifning logini bilan birga cheklanmagan doiradagi
+  shaxslar uchun ochiq bo'ladi; ism va familiya chop etilmaydi. Chop etish faqat Operator tekshiruvidan keyin va faqat
   ishtirokchi sharhni o'zi yozgan bo'lsa mumkin; uni istalgan vaqtda qaytarib olish mumkin. Shartlar —
   [Rozilik](./consent.md)ning 6.3-bo'limi.
 - **Taklif qilinganlar soni bo'yicha reyting.** Ro'yxatdan o'tgan ishtirokchilar uchun ochiq, xizmatdan

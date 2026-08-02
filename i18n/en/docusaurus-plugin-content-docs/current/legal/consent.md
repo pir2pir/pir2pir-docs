@@ -83,7 +83,7 @@ Privacy Policy.
 ### 3.6. Review of the service
 
 - the text of a review the subject writes on their own initiative;
-- the subject's School 21 login and first name, shown beside it.
+- the subject's School 21 login, shown beside it.
 
 A review is published on a public page of the service and becomes available to an unlimited audience,
 including people who are not participants. The conditions are set out in section 6.3.
@@ -185,8 +185,8 @@ A participant may write a review of the service. It is not published automatical
 reviews it first, and only then does it become public.
 
 Once published, the review is available to an **unlimited audience**, including people who are not
-registered with the service and have not given this Consent. The author's School 21 login and first
-name are shown beside the text; the surname is not published.
+registered with the service and have not given this Consent. Only the author's School 21 login is
+shown beside the text; the first name and surname are not published.
 
 This is the only case in which information about a participant is disclosed beyond the circle of
 participants, and it happens only on that participant's own initiative.
