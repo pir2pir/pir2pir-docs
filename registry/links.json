@@ -3,6 +3,7 @@
   "note": "Docs-only site: routeBasePath is '/', so there is no /docs prefix.",
   "routes": {
     "index": "/",
+    "changelog_web_app": "/changelog/web-app/",
     "legal_consent": "/legal/consent/",
     "legal_privacy": "/legal/privacy_policy/",
     "legal_terms": "/legal/terms/",
@@ -15,6 +16,7 @@
   },
   "consumers": [
     "pir2pir-tg-bot: consent screen links (src/Pir2pir.TgBot/Infrastructure/Localization/*.json)",
-    "pir2pir-web-landing: footer document list and cookie notice (src/links.ts)"
+    "pir2pir-web-landing: footer document list and cookie notice (src/links.ts)",
+    "pir2pir-web-app: Community screen and the build number at the foot of Profile link to changelog_web_app"
   ]
 }

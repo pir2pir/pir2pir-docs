@@ -30,6 +30,13 @@ Four documents, deliberately separate:
 Consent covers matching and participant search only. Advertising and any transfer to commercial or
 recruiting services are explicitly excluded and would need separate consent.
 
+## Changelog
+`docs/changelog/web-app.md` and its two translations are a mirror of
+`pir2pir-web-app/docs/changelog/{ru,en,uz}.md`, which is where they are written — beside the code
+they describe, while the change is still in someone's hands. Only the front matter is added here;
+the body is byte-identical to the source, long lines and all. The app links to the published pages
+from its Community screen and from the build number at the foot of Profile.
+
 ## Consumers
 The Telegram bot's consent screen links to these pages. Route changes must be mirrored in
 `registry/links.json` and in the bot's localization files.

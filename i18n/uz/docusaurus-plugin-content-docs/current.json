@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.docsSidebar.category.Изменения": {
+    "message": "O‘zgarishlar",
+    "description": "The label for category 'Изменения' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Изменения.link.generated-index.title": {
+    "message": "O‘zgarishlar",
+    "description": "The generated-index page title for category 'Изменения' in sidebar 'docsSidebar'"
+  },
   "sidebar.docsSidebar.category.Юридические документы": {
     "message": "Huquqiy hujjatlar",
     "description": "The label for category 'Юридические документы' in sidebar 'docsSidebar'"

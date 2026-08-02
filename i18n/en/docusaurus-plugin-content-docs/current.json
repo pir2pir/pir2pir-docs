@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.docsSidebar.category.Изменения": {
+    "message": "Changelog",
+    "description": "The label for category 'Изменения' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Изменения.link.generated-index.title": {
+    "message": "Changelog",
+    "description": "The generated-index page title for category 'Изменения' in sidebar 'docsSidebar'"
+  },
   "sidebar.docsSidebar.category.Юридические документы": {
     "message": "Legal",
     "description": "The label for category 'Юридические документы' in sidebar 'docsSidebar'"
