@@ -13,6 +13,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Kim ko‘proq olib kelgan.** Reyting, va o‘sha yerda undan chiqish yo‘li ham: ism olib tashlanadi, o‘rin qoladi — siz yashiringaningiz uchun hech kim yuqoriga ko‘tarilmaydi.
 
+**Ko‘rinish va qulaylik.** «Profil»da: yirik matn, yuqori kontrast, kamroq harakat va brauzerda ovoz bo‘lgan joyda ekranlarni rus tilida o‘qish. Siz yoqmaguningizcha hammasi o‘chiq, yoqmaganlar uchun hech narsa o‘zgarmaydi, sozlamalar esa qurilmangizda qoladi. O‘sha yerda telefondagi ekran o‘qigichni qanday yoqish ham yozilgan — u bu ilovani bizning har qanday tugmamizdan yaxshiroq o‘qiydi.
+
 **Fikr qoldirish.** Pir2Pir amalda qanday chiqqanini bir necha jumlada ayting. Fikr chop etilishidan oldin o‘qiladi va saytda maktab loginingiz bilan birga chiqadi — buni ekran siz yozishdan oldin aytadi. Yonida — boshqa pirlar nima yozgani.
 
 **Pir2Pir ID Chat Guard.** O‘z sahifasi va «Bu qanday ishlaydi»dagi javob bilan: siz admin bo‘lgan Telegram chatiga gardni ulashning to‘liq tartibi — botga qaysi ikki huquq va nega kerakligi, uchta buyruq, bildirishnoma va so‘rovlarni qayerga yo‘naltirish mumkinligi va avval qayerda sinab ko‘rish kerakligi.
