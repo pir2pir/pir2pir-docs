@@ -4,6 +4,10 @@
   "routes": {
     "index": "/",
     "documentation": "/documentation/",
+    "documentation_functional": "/documentation/functional/",
+    "documentation_installation": "/documentation/installation/",
+    "documentation_operation": "/documentation/operation/",
+    "documentation_lifecycle": "/documentation/lifecycle/",
     "changelog_web_app": "/changelog/web-app/",
     "legal_consent": "/legal/consent/",
     "legal_privacy": "/legal/privacy_policy/",
