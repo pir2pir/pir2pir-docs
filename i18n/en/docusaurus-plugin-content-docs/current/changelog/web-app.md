@@ -13,6 +13,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Who has brought the most.** A board of it, with the way off the board on the same screen: hiding takes your name off and leaves your place, so nobody moves up by you stepping back.
 
+**Display and accessibility.** Under Profile: larger text, higher contrast, less motion, and reading screens aloud in Russian where your browser has a voice for it. Everything is off until you turn it on, nothing changes for anybody who does not, and the settings stay on your own device. The page also points at the screen reader already built into your phone — it reads this app better than any switch of ours could.
+
 **Leave feedback.** Say what Pir2Pir is like to use, in a few sentences. It is read before it appears on the site, and it appears with your school login beside it — which the screen says before you write rather than after. Beside it, what other peers have said.
 
 **Pir2Pir ID Chat Guard.** Its own page and an answer under How it works, with the whole procedure for turning the join gate on in a Telegram chat you administer: the two rights the bot asks for and why, the three commands, where notifications and request reviews can go, and what to try in a chat that does not matter first.
