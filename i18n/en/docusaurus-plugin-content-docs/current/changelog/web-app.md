@@ -28,6 +28,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 - Announcements from the school no longer arrive as a heading with nothing under it: each carries its project and the time the school wrote, in the school's own words.
 - The app says so plainly when the service is briefly unavailable — a full screen that waits and returns by itself, instead of an error on whichever screen you happened to be on.
 - Errors sometimes showed an internal name instead of a sentence.
+- A chat now follows a conversation down when a message arrives and you are reading the end of it — new ones used to land under the fold. Scrolled up, nothing moves, and loading older messages no longer shifts the place you were reading.
+- The chat's input could fail to appear on a page that had been open since before an update, leaving an empty box where it belongs. The app now says it has been updated and offers to reload — the same for any screen it cannot finish fetching.
 
 ## 1.17.0 — 2026-08-02
 
