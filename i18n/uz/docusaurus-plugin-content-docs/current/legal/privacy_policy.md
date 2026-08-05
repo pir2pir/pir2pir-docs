@@ -4,7 +4,7 @@ sidebar_label: Maxfiylik siyosati
 sidebar_position: 2
 ---
 
-Kuchga kirish sanasi: 02.08.2026
+Kuchga kirish sanasi: 05.08.2026
 
 Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi Federal
 qonunining 18.1-moddasi 1-qismi 2-bandiga muvofiq e'lon qilingan.
@@ -59,6 +59,7 @@ To'liq ro'yxat [Rozilik](./consent.md)ning 3-bo'limida. Qisqacha:
 | Daraja, tajriba va ballarning kunlik tarixi; loyihalar holatining o'zgarishi | xizmat Школа 21 ochiq API ma'lumotlaridan shakllantiradi |
 | Login bilan birga chop etiladigan xizmat haqidagi sharh matni | ishtirokchining o'zi yozadi |
 | Taklif kodi, «kim kimni taklif qilgani» bog'lanishi va reytingdagi o'rin | xizmat shakllantiradi |
+| Школа 21 bildirishnomasi turi, loyiha kodi, tekshiruv sanasi va vaqti, bildirishnomada ko'rsatilgan ishtirokchi logini | ishtirokchining o'zi yo'naltiradi, buni o'z pochtasida sozlab |
 
 ## 5. Huquqiy asos
 
@@ -96,6 +97,22 @@ haqida boshqa ma'lumotlar so'ralmaydi va saqlanmaydi.
 
 Shartlar va cheklovlar [Rozilik](./consent.md)ning 6.2-bo'limida keltirilgan.
 
+### 6.1. Yo'naltirilgan Школа 21 bildirishnomalari
+
+Agar ishtirokchi Школа 21 xatlarini `login@pir2pir.ru` ko'rinishidagi manzilga yo'naltirishni
+mustaqil sozlagan bo'lsa, bunday xatda boshqa Школа 21 talabasining logini ko'rsatilgan bo'lishi
+mumkin — masalan, tekshiruv kim bilan belgilangani. Bu login bildirishnoma bilan birga ajratib
+olinadi va saqlanadi, chunki usiz bildirishnoma qabul qiluvchi uchun ma'nosini yo'qotadi.
+
+Bunday ma'lumotlar subyektning o'zidan emas, balki yo'naltirishni sozlagan ishtirokchidan olinadi.
+Operator faqat Школа 21 ning o'zi bildirishnoma matnida ko'rsatgan loginni qayta ishlaydi: bunday
+shaxs uchun hisob yaratilmaydi, profil shakllantirilmaydi, u haqida boshqa ma'lumotlar so'ralmaydi va
+saqlanmaydi, unga bildirishnomalar yuborilmaydi. Login faqat bildirishnoma mo'ljallangan
+ishtirokchiga ko'rsatiladi va xizmatdan tashqariga uzatilmaydi.
+
+Yo'naltirish butunlay ixtiyoriy, uni ishtirokchining o'zi o'z pochta xizmatida yoqadi va istalgan
+vaqtda o'sha yerda o'chiradi.
+
 ## 7. Saqlash muddatlari
 
 | Ma'lumot | Muddat |
@@ -109,6 +126,9 @@ Shartlar va cheklovlar [Rozilik](./consent.md)ning 6.2-bo'limida keltirilgan.
 | Daraja, tajriba, ballar va loyiha holatlari tarixi | rozilik qaytarib olinguncha yoki hisob o'chirilguncha |
 | Xizmat haqidagi sharh | ishtirokchi uni qaytarib olguncha yoki hisob o'chirilguncha |
 | «Kim kimni taklif qilgani» bog'lanishi | ikki hisobdan biri o'chirilguncha |
+| Yo'naltirilgan Школа 21 xatlarining matni | saqlanmaydi: ma'lumotlar ajratib olingach darhol o'chiriladi, har holda 7 kundan ortiq emas |
+| Yo'naltirilgan xatdan shakllantirilgan bildirishnoma | yetkazilgandan keyin 30 kun |
+| Qabul qilingan xat haqidagi xizmat yozuvi | 30 kun, xuddi shu xatni takroran qayta ishlashdan himoya uchun |
 | Qonun bo'yicha saqlanishi shart ma'lumotlar | qonunda belgilangan muddatda |
 
 Yozishmalar tugagach — ishtirokchilardan biri yopgani yoki faolsizlik muddati o'tgani sababli —
@@ -125,6 +145,17 @@ yangi xabar bildirishnomasi faqat veb-ilovaga yetkaziladi.
 Telegram va boshqa ulangan messenjerlarga faqat voqea dalili — tekshiruvchi topilgani yoki muloqot
 so'rovi kelgani — uzatiladi. Xabar parchasi, uning to'liq matni, biriktirmalar va chat mazmuni
 messenjerga uzatilmaydi.
+
+### 7.2. Yo'naltirilgan bildirishnomalarning ishonchliligi
+
+Yo'naltirilgan xatlardan shakllantirilgan bildirishnomalar **ma'lumot uchun** xizmat qiladi. Kiruvchi
+pochtada jo'natuvchini soxtalashtirishdan texnik himoya yo'q, shuning uchun Operator olingan xat
+haqiqatan ham Школа 21 tomonidan yuborilganini tasdiqlay olmaydi.
+
+Bunday bildirishnomalar faqat ishtirokchini xabardor qiladi va xizmatning boshqa hech qanday
+harakatiga sabab bo'lmaydi: ular o'quv profilini o'zgartirmaydi, tekshiruvchilarni tanlashda
+qatnashmaydi va ishtirokchi uchun majburiyat yaratmaydi. O'quv profili haqidagi ma'lumotlarni Operator
+faqat Школа 21 ning ochiq API'sidan oladi, xatlardan emas.
 
 ## 8. Himoya
 

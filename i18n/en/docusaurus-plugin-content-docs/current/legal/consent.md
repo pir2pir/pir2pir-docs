@@ -4,7 +4,7 @@ sidebar_label: Consent to Data Processing
 sidebar_position: 1
 ---
 
-Effective date: 02.08.2026
+Effective date: 05.08.2026
 
 This Consent is executed as a separate document under Article 9(1) of Russian Federal Law
 No. 152-FZ of 27.07.2006 "On Personal Data". Accepting the [Terms of Use](./terms.md) does not grant
@@ -95,6 +95,25 @@ including people who are not participants. The conditions are set out in section
   registration;
 - the participant's position in the ranking by number of people invited.
 
+### 3.8. Forwarded School 21 notifications (where the participant sets it up)
+
+Processed **only if the participant has set forwarding up themselves** in their own mail service.
+Without that, no data in this category is processed.
+
+The participant configures their mailbox (Yandex, Mail.ru, Gmail or another) to forward School 21
+mail to an address of the form `login@pir2pir.ru`. From each message received, the following are
+extracted and stored:
+
+- the type of notification (a registration for a review, a review starting soon, a review cancelled);
+- the code of the project the notification concerns;
+- the review date and time stated in the notification;
+- the login of another School 21 participant, where the notification names one;
+- technical details of the message itself: its message identifier, the sender address, the address it
+  arrived at, and whether the sender signed it electronically.
+
+**The text of the messages is not stored.** A message is deleted from the mailbox as soon as those
+details are read; anything that is not a School 21 notification is deleted unread.
+
 The Operator does **not** process special categories of personal data (Article 10) or biometric
 personal data (Article 11).
 
@@ -107,15 +126,17 @@ Consent is granted solely for the following purposes:
 3. sending a request to talk to a specific participant identified by their exact School 21 login;
 4. enabling correspondence between participants who have agreed to a review or to talk;
 5. delivering service notifications to connected channels (web application, Telegram bot);
-6. sending a single invitation to a School 21 student who is not registered with the service, at a
+6. receiving School 21 notifications forwarded by the participant under their own settings, and
+   delivering them to the participant's connected channels — within the scope of section 3.8;
+7. sending a single invitation to a School 21 student who is not registered with the service, at a
    participant's request — within the scope and on the terms of section 6.2;
-7. publishing a review of the service written by the subject on their own initiative — within the
+8. publishing a review of the service written by the subject on their own initiative — within the
    scope and on the terms of section 6.3;
-8. accounting for invitations: recording which participants joined through another participant's
+9. accounting for invitations: recording which participants joined through another participant's
    code, and displaying the ranking by number of people invited — within the scope and on the terms
    of section 6.4;
-9. handling support requests;
-10. complying with the legislation of the Russian Federation.
+10. handling support requests;
+11. complying with the legislation of the Russian Federation.
 
 Processing for any other purpose — in particular advertising, promotion, or transfer to recruiting or
 other commercial services — is **not covered by this Consent** and requires separate consent.
