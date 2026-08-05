@@ -4,7 +4,7 @@ sidebar_label: Ma'lumotlarga rozilik
 sidebar_position: 1
 ---
 
-Kuchga kirish sanasi: 02.08.2026
+Kuchga kirish sanasi: 05.08.2026
 
 Ushbu Rozilik Rossiya Federatsiyasining 27.07.2006 yildagi 152-FZ "Shaxsiy ma'lumotlar to'g'risida"gi
 Federal qonunining 9-moddasi 1-qismiga muvofiq alohida hujjat sifatida rasmiylashtirilgan.
@@ -95,6 +95,27 @@ jumladan ishtirokchi bo'lmaganlar uchun ham ochiq bo'ladi. Shartlar 6.3-bo'limda
   o'tish sanasi;
 - taklif qilinganlar soni bo'yicha reytingdagi o'rni.
 
+### 3.8. Yo'naltirilgan Школа 21 bildirishnomalari (ishtirokchining sozlamasi bo'yicha)
+
+Faqat **ishtirokchi o'z pochta xizmatida yo'naltirishni mustaqil sozlagan bo'lsa** qayta ishlanadi.
+Bunday sozlamasiz ushbu toifadagi ma'lumotlar qayta ishlanmaydi.
+
+Ishtirokchi o'z pochtasida (Yandex, Mail.ru, Gmail va boshqalar) Школа 21 xatlarini
+`login@pir2pir.ru` ko'rinishidagi manzilga yo'naltirishni sozlaydi. Olingan har bir xatdan quyidagilar
+ajratib olinadi va saqlanadi:
+
+- bildirishnoma turi (tekshiruvga yozilish, tekshiruvning tez orada boshlanishi, tekshiruvning bekor
+  qilinishi);
+- bildirishnoma tegishli bo'lgan o'quv loyihasining kodi;
+- bildirishnomada ko'rsatilgan tekshiruv sanasi va vaqti;
+- agar bildirishnomada ko'rsatilgan bo'lsa, boshqa Школа 21 ishtirokchisining logini;
+- xatning o'zi haqidagi xizmat ma'lumotlari: xabar identifikatori, jo'natuvchi manzili, xat kelgan
+  manzil, jo'natuvchining elektron imzosi mavjudligi.
+
+**Xatlarning matni saqlanmaydi.** Sanab o'tilgan ma'lumotlar ajratib olingandan so'ng xat pochta
+qutisidan darhol o'chiriladi; Школа 21 bildirishnomalariga tegishli bo'lmagan xatlar o'qilmasdan
+o'chiriladi.
+
 Operator maxsus toifadagi shaxsiy ma'lumotlarni (10-modda) va biometrik shaxsiy ma'lumotlarni
 (11-modda) qayta ishlamaydi.
 
@@ -107,15 +128,17 @@ Rozilik faqat quyidagi maqsadlar uchun beriladi:
 3. aniq Школа 21 logini bo'yicha ko'rsatilgan muayyan ishtirokchiga muloqot so'rovini yuborish;
 4. o'zaro tekshiruvga yoki muloqotga rozi bo'lgan ishtirokchilar o'rtasida yozishmani ta'minlash;
 5. ulangan kanallarga (veb-ilova, Telegram-bot) xizmat bildirishnomalarini yetkazish;
-6. ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga bitta taklif
+6. ishtirokchi o'z sozlamasi bo'yicha yo'naltirgan Школа 21 bildirishnomalarini qabul qilish va
+   ularni ishtirokchining ulangan kanallariga yetkazish — 3.8-bo'lim doirasida;
+7. ishtirokchining iltimosiga ko'ra xizmatda ro'yxatdan o'tmagan Школа 21 talabasiga bitta taklif
    yuborish — 6.2-bo'lim doirasi va shartlari asosida;
-7. subyekt o'z tashabbusi bilan yozgan xizmat haqidagi sharhni chop etish — 6.3-bo'lim doirasi va
+8. subyekt o'z tashabbusi bilan yozgan xizmat haqidagi sharhni chop etish — 6.3-bo'lim doirasi va
    shartlari asosida;
-8. takliflarni hisobga olish: qaysi ishtirokchi boshqa ishtirokchining kodi bo'yicha qo'shilganini
+9. takliflarni hisobga olish: qaysi ishtirokchi boshqa ishtirokchining kodi bo'yicha qo'shilganini
    aniqlash va taklif qilinganlar soni bo'yicha reytingni ko'rsatish — 6.4-bo'lim doirasi va
    shartlari asosida;
-9. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
-10. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
+10. qo'llab-quvvatlash murojaatlarini ko'rib chiqish;
+11. Rossiya Federatsiyasi qonunchiligi talablarini bajarish.
 
 Boshqa maqsadlarda — xususan reklama, targ'ibot yoki rekruting va boshqa tijorat xizmatlariga
 uzatish — qayta ishlash **ushbu Rozilik bilan qamrab olinmagan** va alohida rozilik talab qiladi.
