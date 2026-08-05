@@ -7,6 +7,26 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.18.0 — 2026-08-05
+
+**Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi.
+
+**Bildirishnoma sozlamalari.** Profilda: har bir tur uchun sizni qayerda bezovta qilish mumkin — Telegram, MAX, ochiq ilova yoki yopiq ilovaga push. O‘chirilgan kanal bezovtalikni oladi, yozuvni emas.
+
+**Brauzer va bosh ekranda push.** Profildan yoqiladi, o‘sha yerda namunani ham ko‘rish mumkin. iPhone va iPad’da ilovani avval «Bosh ekran»ga qo‘shish kerak — bu Apple qoidasi, va sozlamalarda bu tegishli joyda aytilgan.
+
+**Maktabdan bildirishnomalar.** 21School xatlarini pir2pir.ru’dagi manzilingizga yo‘naltiring — ular shu yerga bildirishnoma bo‘lib keladi. Yo‘naltirish tasdig‘ini pochta sizga emas, bizga yuboradi, shuning uchun u sahifada ko‘rsatiladi — qaysi qutidan kelgani bilan birga.
+
+**Profilni tahrirlash.** Ism va familiya — boshqa pirlar so‘rov yonida va chat sarlavhasida ko‘radigan narsa. O‘sha ekrandagi qolgan hamma narsa 21School’dan keladi.
+
+**Fikrlar va takliflar** FAQ’da bittadan javob oldi, «Bu qanday ishlaydi» esa endi olti savolga javob beradi.
+
+## Tuzatildi — 2026-08-05
+
+- Maktab e’lonlari endi mazmunsiz sarlavha bo‘lib kelmaydi: har birida loyiha va vaqt bor — maktab yozgan ko‘rinishda.
+- Xizmat qisqa vaqt ishlamay qolganda ilova buni ochiq aytadi: siz turgan ekrandagi xato o‘rniga o‘zi ketadigan kutish ekrani.
+- Ba’zan xato haqidagi jumla o‘rniga ichki nom ko‘rsatilardi.
+
 ## 1.17.0 — 2026-08-02
 
 **Pirni taklif qilish.** O‘z kodingiz va uni olib yuradigan ikkita havola: biri ilovani, ikkinchisi botni ochadi. Nusxalash uchun kodni yoki havolani bosing. Kod bilan ro‘yxatdan o‘tgan har kim sizga yoziladi va «Sizning havolangiz bilan kelganlar» ro‘yxatida paydo bo‘ladi.
