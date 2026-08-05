@@ -9,7 +9,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 ## 1.18.0 — 2026-08-05
 
-**Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi.
+**Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi. Ochilgan bildirishnoma nima haqida ekanini ko‘rsatadi: loyiha va maydon, kim yozgani va xabar parchasi, qidiruv qanday tugagani, xat qaysi manzildan kelgani.
 
 **Bildirishnoma sozlamalari.** Profilda: har bir tur uchun sizni qayerda bezovta qilish mumkin — Telegram, MAX, ochiq ilova yoki yopiq ilovaga push. O‘chirilgan kanal bezovtalikni oladi, yozuvni emas.
 
@@ -17,7 +17,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Maktabdan bildirishnomalar.** 21School xatlarini pir2pir.ru’dagi manzilingizga yo‘naltiring — ular shu yerga bildirishnoma bo‘lib keladi. Yo‘naltirish tasdig‘ini pochta sizga emas, bizga yuboradi, shuning uchun u sahifada ko‘rsatiladi — qaysi qutidan kelgani bilan birga.
 
-**Profilni tahrirlash.** Ism va familiya — boshqa pirlar so‘rov yonida va chat sarlavhasida ko‘radigan narsa. O‘sha ekrandagi qolgan hamma narsa 21School’dan keladi.
+**Profilni tahrirlash.** Ism, familiya va surat — boshqa pirlar so‘rov yonida va chat sarlavhasida ko‘radigan narsa. «Tahrirlash» tugmasi endi profil sarlavhasida, o‘zgartirish mumkin bo‘lgan hamma narsa esa bitta sahifada: ilgari surat yuqoridagi ikkita havola bilan, ism esa o‘sha ekranning pastidagi sozlama qatori bilan o‘zgartirilardi. O‘sha yerdagi qolgan hamma narsa 21School’dan keladi.
 
 **Fikrlar va takliflar** FAQ’da bittadan javob oldi, «Bu qanday ishlaydi» esa endi olti savolga javob beradi.
 
