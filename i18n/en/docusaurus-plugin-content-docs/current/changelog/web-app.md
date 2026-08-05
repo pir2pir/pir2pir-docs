@@ -19,6 +19,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Edit your profile.** Your name, surname and photo — what other peers see beside a request or in a chat header. The Edit button is now in the profile header, and everything you can change is on one page: the photo used to be two links at the top and the name a settings row at the bottom of the same screen. Everything else there comes from 21School.
 
+**Joining review matching.** Peer review works in both directions, and you are now asked before a search rather than refused after one: the app explains that a single switch turns on both — you can look for a reviewer, and other peers can ask you to review theirs. Turn it on and the search carries on with the project you picked. It can be switched off again in Notification settings.
+
 **Feedback and invitations** gained a FAQ answer each, and How it works now covers six questions.
 
 ## Fixed — 2026-08-05
