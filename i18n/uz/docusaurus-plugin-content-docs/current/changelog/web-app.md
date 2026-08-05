@@ -28,6 +28,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 - Maktab e’lonlari endi mazmunsiz sarlavha bo‘lib kelmaydi: har birida loyiha va vaqt bor — maktab yozgan ko‘rinishda.
 - Xizmat qisqa vaqt ishlamay qolganda ilova buni ochiq aytadi: siz turgan ekrandagi xato o‘rniga o‘zi ketadigan kutish ekrani.
 - Ba’zan xato haqidagi jumla o‘rniga ichki nom ko‘rsatilardi.
+- Yozishmaning oxirini o‘qiyotganingizda yangi xabar kelsa, chat o‘zi pastga tushadi — ilgari yangisi ekran chetidan pastda qolardi. Yuqoriga chiqqan bo‘lsangiz, hech narsa siljimaydi, va eski xabarlar yuklanishi o‘qiyotgan joyingizni buzmaydi.
+- Ilova yangilanishidan oldin ochilgan sahifada chatdagi kiritish maydoni chiqmay qolishi mumkin edi — uning o‘rnida bo‘sh ramka turardi. Endi ilova yangilanganini aytadi va qayta yuklashni taklif qiladi — yuklab bo‘lmagan har qanday ekran uchun ham shunday.
 
 ## 1.17.0 — 2026-08-02
 
