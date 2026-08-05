@@ -9,7 +9,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 ## 1.18.0 — 2026-08-05
 
-**Notifications.** Everything that has happened to you, in one place — a bell on Home with the unread count, and each one opening at its own address. Reviews, chats, and the school's own reminders if you forward them. Kept for 90 days, and what appears there is never affected by which channels you have switched on.
+**Notifications.** Everything that has happened to you, in one place — a bell on Home with the unread count, and each one opening at its own address. Reviews, chats, and the school's own reminders if you forward them. Kept for 90 days, and what appears there is never affected by which channels you have switched on. Opening one shows what it is about: the project and the hub, who wrote and an excerpt of what they wrote, how a search ended, which address a forwarded mail came from.
 
 **Notification settings.** Under Profile: where each kind of message is allowed to reach you — Telegram, MAX, the open app, or a push to a closed one. Switching a channel off stops the interruption, not the record.
 
@@ -17,7 +17,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Notifications from the school.** Forward 21School's own mail to your address at pir2pir.ru and it arrives here as notifications. The confirmation your mail provider sends goes to us rather than to you, so the page shows it — including which mailbox it came from.
 
-**Edit your profile.** Your name and surname, which is what other peers see beside a request or in a chat header. Everything else on that screen comes from 21School.
+**Edit your profile.** Your name, surname and photo — what other peers see beside a request or in a chat header. The Edit button is now in the profile header, and everything you can change is on one page: the photo used to be two links at the top and the name a settings row at the bottom of the same screen. Everything else there comes from 21School.
 
 **Feedback and invitations** gained a FAQ answer each, and How it works now covers six questions.
 
