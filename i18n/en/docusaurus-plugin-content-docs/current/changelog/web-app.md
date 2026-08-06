@@ -19,7 +19,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Edit your profile.** Your name, surname and photo — what other peers see beside a request or in a chat header. The Edit button is now in the profile header, and everything you can change is on one page: the photo used to be two links at the top and the name a settings row at the bottom of the same screen. Everything else there comes from 21School.
 
-**The other ways in, on one line.** Under the login field: Telegram, MAX, and App — the last marked "soon" until there is one. Each used to be a full-width button repeating "Continue with", which made three secondary doors look like three decisions.
+**The other ways in, on one line.** Under the login field: Telegram, MAX, and App — the last marked "soon" until there is one. It stays one line on any screen. Each used to be a full-width button repeating "Continue with", which made three secondary doors look like three decisions.
 
 **The sign-in code, by email or on Rocket.Chat.** Two buttons on the sign-in screen now. The school's mail sometimes files the code as spam, which is the commonest reason signing in fails at all; a direct message on the school's Rocket.Chat arrives without relays or filters. The code screen says where it actually went, rather than where it was asked to go.
 
