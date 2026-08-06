@@ -7,6 +7,34 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.18.0 — 2026-08-06
+
+**Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi. Ochilgan bildirishnoma nima haqida ekanini ko‘rsatadi: loyiha va maydon, kim yozgani va xabar parchasi, qidiruv qanday tugagani, xat qaysi manzildan kelgani.
+
+**Bildirishnoma sozlamalari.** Profilda: har bir tur uchun sizni qayerda bezovta qilish mumkin — Telegram, MAX, ochiq ilova yoki yopiq ilovaga push. O‘chirilgan kanal bezovtalikni oladi, yozuvni emas.
+
+**Brauzer va bosh ekranda push.** Profildan yoqiladi, o‘sha yerda namunani ham ko‘rish mumkin. iPhone va iPad’da ilovani avval «Bosh ekran»ga qo‘shish kerak — bu Apple qoidasi, va sozlamalarda bu tegishli joyda aytilgan.
+
+**Maktabdan bildirishnomalar.** 21School xatlarini pir2pir.ru’dagi manzilingizga yo‘naltiring — ular shu yerga bildirishnoma bo‘lib keladi. Yo‘naltirish tasdig‘ini pochta sizga emas, bizga yuboradi, shuning uchun u sahifada ko‘rsatiladi — qaysi qutidan kelgani bilan birga.
+
+**Profilni tahrirlash.** Ism, familiya va surat — boshqa pirlar so‘rov yonida va chat sarlavhasida ko‘radigan narsa. «Tahrirlash» tugmasi endi profil sarlavhasida, o‘zgartirish mumkin bo‘lgan hamma narsa esa bitta sahifada: ilgari surat yuqoridagi ikkita havola bilan, ism esa o‘sha ekranning pastidagi sozlama qatori bilan o‘zgartirilardi. O‘sha yerdagi qolgan hamma narsa 21School’dan keladi.
+
+**Kirish kodi — pochtaga yoki Rocket.Chat’ga.** Kirish ekranida endi ikkita tugma bor. Maktab pochtasi kodli xatni ba’zan «Spam»ga tashlaydi — bu kirib bo‘lmasligining eng keng tarqalgan sababi; maktab Rocket.Chat’idagi shaxsiy xabar esa hech qanday uzatish va filtrsiz keladi. Kod ekrani kod aslida qayerga ketganini aytadi, qayerga so‘ralganini emas.
+
+**Ko‘rib chiqishlarda qatnashish. O‘zaro ko‘rib chiqish ikki tomonlama ishlaydi, va endi bu qidiruvdan oldin so‘raladi, keyin rad javob bilan emas: ilova bitta tugma ikkalasini ham yoqishini tushuntiradi — siz ko‘rib chiquvchi qidira olasiz, va sizni ham chaqirishlari mumkin. Yoqsangiz, qidiruv o‘sha loyihadan davom etadi. Bildirishnoma sozlamalarida qaytadan o‘chirish mumkin.
+
+**Fikrlar va takliflar** FAQ’da bittadan javob oldi, «Bu qanday ishlaydi» esa endi olti savolga javob beradi.
+
+## Tuzatildi — 2026-08-06
+
+- Maktab e’lonlari endi mazmunsiz sarlavha bo‘lib kelmaydi: har birida loyiha va vaqt bor — maktab yozgan ko‘rinishda.
+- Xizmat qisqa vaqt ishlamay qolganda ilova buni ochiq aytadi: siz turgan ekrandagi xato o‘rniga o‘zi ketadigan kutish ekrani.
+- Ba’zan xato haqidagi jumla o‘rniga ichki nom ko‘rsatilardi.
+- Bildirishnoma sozlamalarida endi yetkazib bo‘lmaydigan messenjer uchun tugma yo‘q: Telegram faqat bog‘langan bo‘lsa chiqadi, MAX esa — uni bu yerda umuman bog‘lab bo‘lmagani uchun — chiqmaydi. Hech qayerga olib bormaydigan yoqilgan kanal — yo‘qidan ham yomon.
+- Agar bu odam bilan chatingiz allaqachon bo‘lsa, ilova endi o‘shani ochadi, «chat bor» deb aytib qo‘ymaydi. Ko‘pincha u o‘zi paydo bo‘lgan — ko‘rib chiqishdagi moslikdan — va uni topadigan joy yo‘q edi.
+- Yozishmaning oxirini o‘qiyotganingizda yangi xabar kelsa, chat o‘zi pastga tushadi — ilgari yangisi ekran chetidan pastda qolardi. Yuqoriga chiqqan bo‘lsangiz, hech narsa siljimaydi, va eski xabarlar yuklanishi o‘qiyotgan joyingizni buzmaydi.
+- Ilova yangilanishidan oldin ochilgan sahifada chatdagi kiritish maydoni chiqmay qolishi mumkin edi — uning o‘rnida bo‘sh ramka turardi. Endi ilova yangilanganini aytadi va qayta yuklashni taklif qiladi — yuklab bo‘lmagan har qanday ekran uchun ham shunday.
+
 ## 1.17.0 — 2026-08-02
 
 **Pirni taklif qilish.** O‘z kodingiz va uni olib yuradigan ikkita havola: biri ilovani, ikkinchisi botni ochadi. Nusxalash uchun kodni yoki havolani bosing. Kod bilan ro‘yxatdan o‘tgan har kim sizga yoziladi va «Sizning havolangiz bilan kelganlar» ro‘yxatida paydo bo‘ladi.

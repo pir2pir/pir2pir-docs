@@ -7,6 +7,34 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
+## 1.18.0 — 2026-08-06
+
+**Notifications.** Everything that has happened to you, in one place — a bell on Home with the unread count, and each one opening at its own address. Reviews, chats, and the school's own reminders if you forward them. Kept for 90 days, and what appears there is never affected by which channels you have switched on. Opening one shows what it is about: the project and the hub, who wrote and an excerpt of what they wrote, how a search ended, which address a forwarded mail came from.
+
+**Notification settings.** Under Profile: where each kind of message is allowed to reach you — Telegram, MAX, the open app, or a push to a closed one. Switching a channel off stops the interruption, not the record.
+
+**Push, in a browser and on a home screen.** Turn it on from Profile and see an example of what one looks like. On iPhone and iPad the app has to be on the Home Screen first, which is Apple's rule; the settings say so where it applies.
+
+**Notifications from the school.** Forward 21School's own mail to your address at pir2pir.ru and it arrives here as notifications. The confirmation your mail provider sends goes to us rather than to you, so the page shows it — including which mailbox it came from.
+
+**Edit your profile.** Your name, surname and photo — what other peers see beside a request or in a chat header. The Edit button is now in the profile header, and everything you can change is on one page: the photo used to be two links at the top and the name a settings row at the bottom of the same screen. Everything else there comes from 21School.
+
+**The sign-in code, by email or on Rocket.Chat.** Two buttons on the sign-in screen now. The school's mail sometimes files the code as spam, which is the commonest reason signing in fails at all; a direct message on the school's Rocket.Chat arrives without relays or filters. The code screen says where it actually went, rather than where it was asked to go.
+
+**Joining review matching. Peer review works in both directions, and you are now asked before a search rather than refused after one: the app explains that a single switch turns on both — you can look for a reviewer, and other peers can ask you to review theirs. Turn it on and the search carries on with the project you picked. It can be switched off again in Notification settings.
+
+**Feedback and invitations** gained a FAQ answer each, and How it works now covers six questions.
+
+## Fixed — 2026-08-06
+
+- Announcements from the school no longer arrive as a heading with nothing under it: each carries its project and the time the school wrote, in the school's own words.
+- The app says so plainly when the service is briefly unavailable — a full screen that waits and returns by itself, instead of an error on whichever screen you happened to be on.
+- Errors sometimes showed an internal name instead of a sentence.
+- Notification settings no longer offer a switch for a messenger with nowhere to deliver: Telegram appears only once it is linked, and MAX — which cannot be linked here at all yet — does not appear. A channel switched on that leads nowhere is worse than one that is missing.
+- Asking somebody you already have a chat with now opens it, instead of saying that one exists somewhere. It usually got there by itself — from a review match — so there was nowhere to go and look.
+- A chat now follows a conversation down when a message arrives and you are reading the end of it — new ones used to land under the fold. Scrolled up, nothing moves, and loading older messages no longer shifts the place you were reading.
+- The chat's input could fail to appear on a page that had been open since before an update, leaving an empty box where it belongs. The app now says it has been updated and offers to reload — the same for any screen it cannot finish fetching.
+
 ## 1.17.0 — 2026-08-02
 
 **Invite a peer.** Your own code, and two links that carry it — one opens the app, the other opens the bot. Tap the code or either link to copy it. Anybody who signs up holding it is recorded as yours, and they appear under "Joined through you" as soon as their account exists.
