@@ -30,6 +30,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 - Maktab e’lonlari endi mazmunsiz sarlavha bo‘lib kelmaydi: har birida loyiha va vaqt bor — maktab yozgan ko‘rinishda.
 - Xizmat qisqa vaqt ishlamay qolganda ilova buni ochiq aytadi: siz turgan ekrandagi xato o‘rniga o‘zi ketadigan kutish ekrani.
 - Ba’zan xato haqidagi jumla o‘rniga ichki nom ko‘rsatilardi.
+- Bildirishnoma sozlamalarida endi yetkazib bo‘lmaydigan messenjer uchun tugma yo‘q: Telegram faqat bog‘langan bo‘lsa chiqadi, MAX esa — uni bu yerda umuman bog‘lab bo‘lmagani uchun — chiqmaydi. Hech qayerga olib bormaydigan yoqilgan kanal — yo‘qidan ham yomon.
 - Agar bu odam bilan chatingiz allaqachon bo‘lsa, ilova endi o‘shani ochadi, «chat bor» deb aytib qo‘ymaydi. Ko‘pincha u o‘zi paydo bo‘lgan — ko‘rib chiqishdagi moslikdan — va uni topadigan joy yo‘q edi.
 - Yozishmaning oxirini o‘qiyotganingizda yangi xabar kelsa, chat o‘zi pastga tushadi — ilgari yangisi ekran chetidan pastda qolardi. Yuqoriga chiqqan bo‘lsangiz, hech narsa siljimaydi, va eski xabarlar yuklanishi o‘qiyotgan joyingizni buzmaydi.
 - Ilova yangilanishidan oldin ochilgan sahifada chatdagi kiritish maydoni chiqmay qolishi mumkin edi — uning o‘rnida bo‘sh ramka turardi. Endi ilova yangilanganini aytadi va qayta yuklashni taklif qiladi — yuklab bo‘lmagan har qanday ekran uchun ham shunday.
