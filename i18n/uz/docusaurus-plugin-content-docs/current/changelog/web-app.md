@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
-## 1.18.0 — 2026-08-05
+## 1.18.0 — 2026-08-06
 
 **Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi. Ochilgan bildirishnoma nima haqida ekanini ko‘rsatadi: loyiha va maydon, kim yozgani va xabar parchasi, qidiruv qanday tugagani, xat qaysi manzildan kelgani.
 
@@ -25,7 +25,7 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Fikrlar va takliflar** FAQ’da bittadan javob oldi, «Bu qanday ishlaydi» esa endi olti savolga javob beradi.
 
-## Tuzatildi — 2026-08-05
+## Tuzatildi — 2026-08-06
 
 - Maktab e’lonlari endi mazmunsiz sarlavha bo‘lib kelmaydi: har birida loyiha va vaqt bor — maktab yozgan ko‘rinishda.
 - Xizmat qisqa vaqt ishlamay qolganda ilova buni ochiq aytadi: siz turgan ekrandagi xato o‘rniga o‘zi ketadigan kutish ekrani.

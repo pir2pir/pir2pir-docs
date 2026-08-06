@@ -7,7 +7,7 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
-## 1.18.0 — 2026-08-05
+## 1.18.0 — 2026-08-06
 
 **Notifications.** Everything that has happened to you, in one place — a bell on Home with the unread count, and each one opening at its own address. Reviews, chats, and the school's own reminders if you forward them. Kept for 90 days, and what appears there is never affected by which channels you have switched on. Opening one shows what it is about: the project and the hub, who wrote and an excerpt of what they wrote, how a search ended, which address a forwarded mail came from.
 
@@ -25,7 +25,7 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **Feedback and invitations** gained a FAQ answer each, and How it works now covers six questions.
 
-## Fixed — 2026-08-05
+## Fixed — 2026-08-06
 
 - Announcements from the school no longer arrive as a heading with nothing under it: each carries its project and the time the school wrote, in the school's own words.
 - The app says so plainly when the service is briefly unavailable — a full screen that waits and returns by itself, instead of an error on whichever screen you happened to be on.
