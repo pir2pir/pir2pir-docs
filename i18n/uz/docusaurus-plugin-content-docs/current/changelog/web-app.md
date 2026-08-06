@@ -19,6 +19,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **Profilni tahrirlash.** Ism, familiya va surat — boshqa pirlar so‘rov yonida va chat sarlavhasida ko‘radigan narsa. «Tahrirlash» tugmasi endi profil sarlavhasida, o‘zgartirish mumkin bo‘lgan hamma narsa esa bitta sahifada: ilgari surat yuqoridagi ikkita havola bilan, ism esa o‘sha ekranning pastidagi sozlama qatori bilan o‘zgartirilardi. O‘sha yerdagi qolgan hamma narsa 21School’dan keladi.
 
+**Boshqa kirish yo‘llari — bitta qatorda.** Login maydoni ostida: Telegram, MAX va «Ilova» — hozircha «tez orada» belgisi bilan. Ilgari har biri butun kenglikdagi alohida tugma edi va «orqali kirish»ni takrorlardi.
+
 **Kirish kodi — pochtaga yoki Rocket.Chat’ga.** Kirish ekranida endi ikkita tugma bor. Maktab pochtasi kodli xatni ba’zan «Spam»ga tashlaydi — bu kirib bo‘lmasligining eng keng tarqalgan sababi; maktab Rocket.Chat’idagi shaxsiy xabar esa hech qanday uzatish va filtrsiz keladi. Kod ekrani kod aslida qayerga ketganini aytadi, qayerga so‘ralganini emas.
 
 **Ko‘rib chiqishlarda qatnashish. O‘zaro ko‘rib chiqish ikki tomonlama ishlaydi, va endi bu qidiruvdan oldin so‘raladi, keyin rad javob bilan emas: ilova bitta tugma ikkalasini ham yoqishini tushuntiradi — siz ko‘rib chiquvchi qidira olasiz, va sizni ham chaqirishlari mumkin. Yoqsangiz, qidiruv o‘sha loyihadan davom etadi. Bildirishnoma sozlamalarida qaytadan o‘chirish mumkin.
