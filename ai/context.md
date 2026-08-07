@@ -31,11 +31,20 @@ Consent covers matching and participant search only. Advertising and any transfe
 recruiting services are explicitly excluded and would need separate consent.
 
 ## Changelog
-`docs/changelog/web-app.md` and its two translations are a mirror of
-`pir2pir-web-app/docs/changelog/{ru,en,uz}.md`, which is where they are written — beside the code
-they describe, while the change is still in someone's hands. Only the front matter is added here;
-the body is byte-identical to the source, long lines and all. The app links to the published pages
-from its Community screen and from the build number at the foot of Profile.
+Every page under `docs/changelog/` is a mirror of a `docs/changelog/{ru,en,uz}.md` written in the
+repository of the thing it describes, beside the code, while the change is still in someone's hands:
+`web-app.md` from pir2pir-web-app, `tg-bot.md` from pir2pir-tg-bot, `max-bot.md` from
+pir2pir-max-bot. Only the front matter is added here; the body is byte-identical to the source, long
+lines and all.
+
+The machine is `.github/workflows/publish-changelog.yml` here, called by each of those repos — kept
+in this one because the paths, front matter and locale layout it writes are facts about how the site
+is arranged, and should change in one place. Each caller passes its page name, sidebar position and
+three labels, and a PAT with contents write on this repo. The default token will not do: a push made
+with it starts no further workflows, so `trigger.yml` would never fire and nothing would deploy.
+
+The web app links to its published page from the Community screen and from the build number at the
+foot of Profile.
 
 ## Consumers
 The Telegram bot's consent screen links to these pages. Route changes must be mirrored in

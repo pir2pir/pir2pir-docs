@@ -9,6 +9,8 @@
     "documentation_operation": "/documentation/operation/",
     "documentation_lifecycle": "/documentation/lifecycle/",
     "changelog_web_app": "/changelog/web-app/",
+    "changelog_tg_bot": "/changelog/tg-bot/",
+    "changelog_max_bot": "/changelog/max-bot/",
     "legal_consent": "/legal/consent/",
     "legal_privacy": "/legal/privacy_policy/",
     "legal_terms": "/legal/terms/",
@@ -23,6 +25,7 @@
     "pir2pir-tg-bot: consent screen links (src/Pir2pir.TgBot/Infrastructure/Localization/*.json)",
     "pir2pir-web-landing: footer document list and cookie notice (src/links.ts)",
     "pir2pir-web-app: Community screen and the build number at the foot of Profile link to changelog_web_app",
+    "pir2pir-web-app, pir2pir-tg-bot, pir2pir-max-bot: each calls .github/workflows/publish-changelog.yml here to write its own changelog page",
     "Минцифры, реестр российского ПО: поле «адрес страницы с документацией» указывает на documentation"
   ]
 }
