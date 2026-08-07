@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.docsSidebar.category.Вопросы и ответы": {
+    "message": "Savol va javoblar",
+    "description": "The label for category 'Вопросы и ответы' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Вопросы и ответы.link.generated-index.title": {
+    "message": "Savol va javoblar",
+    "description": "The generated-index page title for category 'Вопросы и ответы' in sidebar 'docsSidebar'"
+  },
   "sidebar.docsSidebar.category.Изменения": {
     "message": "O‘zgarishlar",
     "description": "The label for category 'Изменения' in sidebar 'docsSidebar'"

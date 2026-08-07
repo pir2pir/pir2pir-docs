@@ -33,6 +33,15 @@ This repository supports human and AI-assisted documentation work.
   name, its sidebar position and three labels. Adding a fourth product means a caller in its
   repository and a route in `registry/links.json` — nothing else here, and nothing in the site repo.
 
+## Screenshots
+- Images live in pir2pir-docs-site under `static/`, not here: the site's CI clones only `docs/` and
+  `i18n/` from this repo, so an image committed here would never reach the build.
+- Reference them by root-absolute path (`/faq/sign-in/app/01-login.jpg`) so all three locales share
+  one copy. Nothing validates those paths at build time — a typo is a silent 404, unlike a broken
+  Markdown link, which throws.
+- Adding a screenshot therefore means a commit in each repo, and the image has to reach the site's
+  `production` first, or the page ships pointing at nothing.
+
 ## Legal Documents
 - `docs/legal/consent.md` must stay a standalone document. 152-FZ (from 01.09.2025) requires consent
   to be executed separately from other documents; merging it into `terms.md` would breach that.
