@@ -21,11 +21,12 @@ Locales: `ru` (default), `en`, `uz`. A page missing a translation falls back to 
 Push to `production` triggers a rebuild in the site repo via `repository_dispatch`. Nothing else is
 required — the site clones this repo during its build.
 
-`docs/changelog/` is written by a machine, not by hand: pir2pir-web-app pushes the three pages here
-when its own changelog changes, to `develop` and `production` alike, and the push to `production`
-starts the rebuild like any other. It is the one thing in this repo that does not wait to be
-promoted — a changelog entry describes something that has already happened, and both branches
-carrying it means promoting `develop` cannot revert one.
+`docs/changelog/` is written by a machine, not by hand. Each product keeps its changelog beside its
+own code and calls `.github/workflows/publish-changelog.yml` here to write it in — pir2pir-web-app,
+pir2pir-tg-bot and pir2pir-max-bot today. Pages land on `develop` and `production` alike, and the
+push to `production` starts the rebuild like any other. It is the one thing in this repo that does
+not wait to be promoted: a changelog entry describes something that has already happened, and both
+branches carrying it means promoting `develop` cannot revert one.
 
 ## Legal documents
 

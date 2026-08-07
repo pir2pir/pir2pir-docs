@@ -1,0 +1,152 @@
+name: Publish Changelog
+
+# Called by the repository of whatever the changelog describes — the web app, the Telegram bot, the
+# MAX bot — to write its changelog into this one, which is the only repo the docs site builds from.
+#
+# It lives here rather than in each of them because the destination is this repo's business: the
+# paths, the front matter and the locale layout are all facts about how the site is arranged, and
+# they should change in one place when that changes. The callers say only what is true of them —
+# which page they are, and what to call it in three languages.
+#
+# It commits rather than asking to be fetched, because a push either lands or fails the job. An
+# earlier design dispatched an event instead, and repository_dispatch returns 204 whether or not
+# anything is listening, so a release could report success and publish nothing.
+
+on:
+  workflow_call:
+    inputs:
+      page:
+        description: Basename of the published page, e.g. "tg-bot" for /changelog/tg-bot/
+        required: true
+        type: string
+      position:
+        description: sidebar_position within the Changelog category
+        required: true
+        type: number
+      label_ru:
+        description: Sidebar label in Russian
+        required: true
+        type: string
+      label_en:
+        description: Sidebar label in English
+        required: true
+        type: string
+      label_uz:
+        description: Sidebar label in Uzbek
+        required: true
+        type: string
+    secrets:
+      REPO_TOKEN:
+        description: PAT with contents write on pir2pir-docs. The default token cannot be used — a
+          push made with it starts no further workflows, and trigger.yml has to fire.
+        required: true
+
+jobs:
+  publish:
+    name: ${{ inputs.page }} → pir2pir-docs (${{ matrix.branch }})
+    runs-on: ubuntu-latest
+
+    strategy:
+      # Both branches of the content repo get the same text. production so the entry is live as soon
+      # as it is written — a changelog nobody has published is a changelog nobody has — and develop
+      # as well, so the staging branch never trails behind the site.
+      matrix:
+        branch: [production, develop]
+      # One branch being momentarily unwritable should not take the other down with it.
+      fail-fast: false
+
+    steps:
+      # In a reusable workflow the default checkout is the *calling* repository at the commit that
+      # triggered it, which is exactly the changelog we are here to publish.
+      - name: Checkout the changelog source
+        uses: actions/checkout@v4
+        with:
+          sparse-checkout: docs/changelog
+          sparse-checkout-cone-mode: false
+
+      - name: Checkout the docs content repo
+        uses: actions/checkout@v4
+        with:
+          repository: pir2pir/pir2pir-docs
+          ref: ${{ matrix.branch }}
+          path: content
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Rewrite the changelog pages
+        env:
+          PAGE: ${{ inputs.page }}
+          POSITION: ${{ inputs.position }}
+          LABEL_RU: ${{ inputs.label_ru }}
+          LABEL_EN: ${{ inputs.label_en }}
+          LABEL_UZ: ${{ inputs.label_uz }}
+        run: |
+          set -euo pipefail
+
+          # A page name ends up in a file path; keep it to something that cannot climb out of the
+          # directory or collide with the category file.
+          case "$PAGE" in
+            _*|*/*|*.*|"") echo "::error::refusing to publish page name '$PAGE'"; exit 1 ;;
+          esac
+
+          # All three or none. A Russian entry with no Uzbek beside it tells an Uzbek reader nothing
+          # has changed since July, and failing here is the cheaper way to find that out.
+          for locale in ru en uz; do
+            test -s "docs/changelog/${locale}.md" \
+              || { echo "::error::docs/changelog/${locale}.md is missing or empty"; exit 1; }
+          done
+
+          # Russian is the default locale and sits unprefixed under docs/; translations go under
+          # i18n/<locale>/docusaurus-plugin-content-docs/current/, the convention legal/ follows.
+          # Only the front matter is added — the body is copied byte for byte, long unwrapped lines
+          # and all, because a renderer that treats a single newline as a line break would otherwise
+          # break a wrapped sentence in half on somebody's phone.
+          write() { # locale, path within pir2pir-docs, sidebar label
+            mkdir -p "content/$(dirname "$2")"
+            {
+              printf -- '---\nsidebar_label: %s\nsidebar_position: %s\n---\n\n' "$3" "$POSITION"
+              cat "docs/changelog/$1.md"
+            } > "content/$2"
+          }
+
+          write ru "docs/changelog/${PAGE}.md" "$LABEL_RU"
+          write en "i18n/en/docusaurus-plugin-content-docs/current/changelog/${PAGE}.md" "$LABEL_EN"
+          write uz "i18n/uz/docusaurus-plugin-content-docs/current/changelog/${PAGE}.md" "$LABEL_UZ"
+
+      - name: Commit and push
+        working-directory: content
+        env:
+          BRANCH: ${{ matrix.branch }}
+          PAGE: ${{ inputs.page }}
+        run: |
+          set -euo pipefail
+
+          git add docs/changelog i18n/*/docusaurus-plugin-content-docs/current/changelog
+
+          # Most runs change only one of the two branches — the other already had this text from an
+          # earlier push. Committing anyway would rebuild and redeploy the whole site to say nothing.
+          if git diff --cached --quiet; then
+            echo "pir2pir-docs@${BRANCH} already carries this text — nothing to publish"
+            exit 0
+          fi
+
+          git config user.name 'pir2pir-bot'
+          git config user.email 'bot@pir2pir.ru'
+          git commit -m "changelog: mirror ${GITHUB_REPOSITORY#*/} at ${GITHUB_SHA}"
+
+          # Several repositories publish into these two branches, and GitHub's concurrency groups do
+          # not span repositories — so two products releasing at once genuinely race here. Each of
+          # them writes a different page, so a rebase resolves it; retry rather than failing a
+          # release over a lost coin toss. A conflict that survives three attempts is not a race, it
+          # is somebody having edited the mirror by hand, and that should stop and be looked at.
+          for attempt in 1 2 3; do
+            if git pull --rebase --quiet origin "${BRANCH}" && git push --quiet origin "HEAD:${BRANCH}"; then
+              echo "published ${PAGE} to pir2pir-docs@${BRANCH}"
+              exit 0
+            fi
+            echo "attempt ${attempt} lost the race for ${BRANCH}; retrying"
+            git rebase --abort 2>/dev/null || true
+            sleep $((attempt * 5))
+          done
+
+          echo "::error::could not push ${PAGE} to pir2pir-docs@${BRANCH} after 3 attempts"
+          exit 1

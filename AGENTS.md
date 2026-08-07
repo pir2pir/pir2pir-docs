@@ -18,16 +18,20 @@ This repository supports human and AI-assisted documentation work.
 
 ## Changelogs
 - `docs/changelog/` and its translations are mirrors. The source of truth is the repository of the
-  thing being described — the web app changelog is written in `pir2pir-web-app/docs/changelog/`.
-- Fix wording there, not here: an edit made here is overwritten the next time the changelog is
-  synced, and it leaves the two copies disagreeing until then.
+  thing being described, each keeping its own `docs/changelog/{ru,en,uz}.md`:
+  `web-app.md` from pir2pir-web-app, `tg-bot.md` from pir2pir-tg-bot, `max-bot.md` from
+  pir2pir-max-bot.
+- Fix wording there, not here: an edit made here is overwritten the next time that repository
+  publishes, and it leaves the two copies disagreeing until then.
 - Everything below the front matter is copied verbatim, including the deliberately unwrapped lines.
   Do not reflow them to this repository's 100-column prose width.
-- The copying is done from the other side: `publish-changelog.yml` in pir2pir-web-app writes these
-  files and pushes them to both `develop` and `production` here, so an entry is on the site as soon
-  as it is written and the staging branch never trails behind it. Nothing in this repo pulls them,
-  so changing the front matter or the destination paths means changing that workflow, or the next
-  release undoes the edit.
+- `.github/workflows/publish-changelog.yml` here is the machine that does it, called by each of
+  those repositories. It writes to both `develop` and `production`, so an entry is on the site as
+  soon as it is written and the staging branch never trails behind it.
+- The destination paths, the front matter and the locale layout live in that workflow, which is why
+  it is in this repo: they are facts about how the site is arranged. A caller supplies only its page
+  name, its sidebar position and three labels. Adding a fourth product means a caller in its
+  repository and a route in `registry/links.json` — nothing else here, and nothing in the site repo.
 
 ## Legal Documents
 - `docs/legal/consent.md` must stay a standalone document. 152-FZ (from 01.09.2025) requires consent
