@@ -3,6 +3,14 @@
     "message": "Next",
     "description": "The label for version current"
   },
+  "sidebar.docsSidebar.category.Вопросы и ответы": {
+    "message": "Questions and answers",
+    "description": "The label for category 'Вопросы и ответы' in sidebar 'docsSidebar'"
+  },
+  "sidebar.docsSidebar.category.Вопросы и ответы.link.generated-index.title": {
+    "message": "Questions and answers",
+    "description": "The generated-index page title for category 'Вопросы и ответы' in sidebar 'docsSidebar'"
+  },
   "sidebar.docsSidebar.category.Изменения": {
     "message": "Changelog",
     "description": "The label for category 'Изменения' in sidebar 'docsSidebar'"

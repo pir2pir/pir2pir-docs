@@ -3,6 +3,7 @@
   "note": "Docs-only site: routeBasePath is '/', so there is no /docs prefix.",
   "routes": {
     "index": "/",
+    "faq_sign_in": "/faq/sign-in/",
     "documentation": "/documentation/",
     "documentation_functional": "/documentation/functional/",
     "documentation_installation": "/documentation/installation/",
