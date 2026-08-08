@@ -7,6 +7,40 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
+## 1.19.0 — 2026-08-08
+
+**A peer's profile is laid out like your own.** The same head and the same figures in the same order: level with its experience beside it, and review points (PRP).
+
+**An announcement opens on the message itself in the school chat.** The button under the text jumps straight to it rather than to the whole channel. A post written under another notice is marked as a follow-up.
+
+**Your profile shows both balances.** Code review points have been in the server's answer all along and were drawn nowhere — they now sit beside peer review points and are labelled apart from them, as on a peer's page.
+
+**Your school status, in its own words.** A break, a suspension and an expulsion no longer read alike: "not an active student" said the same thing about three different situations.
+
+**A profile button in a chat header.** The avatar and the login have always led there, but neither looks like a control — this is the row where somebody asks who they are talking to.
+
+**A name beside the login.** Where a peer has set a name and surname the profile shows them, with the login kept alongside — it is what everything else calls them. Peer review and code review points are labelled separately: only the first gates a defence.
+
+**Detaching an account asks first.** Before a way in is removed, the app says which one stops working and what it takes to attach it again.
+
+**Linked accounts have their own page.** And when there is nothing linked and nothing to link, the row is gone: an arrow promises a page with something behind it.
+
+**The tab says which page it is.** The browser tab now follows the screen instead of repeating one word on every route, so history and bookmarks say what you actually opened.
+
+**Quiet, whole or by room.** In notification settings: mute everything at once, or silence one announcement room. Your notification list still fills up as before — this stops the interruption, not the record.
+
+**Two new kinds of notification: campus events and announcements.** They arrive like the rest and open where they belong — an announcement lands on the post itself.
+
+**A team for a group project.** A new card on Home: a board for projects three people have to start together. Post that you have two seats, or ask somebody who already has. No matching — the poster decides, and only they see who asked. A post leaves the board on its own once the school sees the project started.
+
+**A peer's profile.** A login now leads to the person: tap a name or an avatar in a chat, a list, the leaderboard or a notification and you get their campus, wave and level. It used to be a dead string, and finding out who somebody was meant leaving for the school's own tools.
+
+**Ways to reach you, on your terms.** A new Profile and contacts screen: whether to show your school chat, Telegram or MAX. Every channel starts off — being findable by somebody who has your login is one thing to agree to, and handing them a way to message you elsewhere is another. It also says why a channel cannot work yet: nothing linked, or linked with no username.
+
+**Community links can change without a release.** The Community page now shows whatever the server has been configured with alongside the built-in list — a new group appears under its own heading, and a link already on the page is not repeated.
+
+**Only an exact login finds you.** No search, no list, no autocomplete — said plainly on that screen, because "discoverable" otherwise reads like a directory.
+
 ## 1.18.0 — 2026-08-06
 
 **Notifications.** Everything that has happened to you, in one place — a bell on Home with the unread count, and each one opening at its own address. Reviews, chats, and the school's own reminders if you forward them. Kept for 90 days, and what appears there is never affected by which channels you have switched on. Opening one shows what it is about: the project and the hub, who wrote and an excerpt of what they wrote, how a search ended, which address a forwarded mail came from.
