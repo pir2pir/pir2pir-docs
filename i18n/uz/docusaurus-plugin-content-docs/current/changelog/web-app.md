@@ -7,6 +7,40 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.19.0 — 2026-08-08
+
+**Pir profili o‘zingiznikidek ko‘rinadi.** Xuddi shu sarlavha va xuddi shu tartibdagi raqamlar: yonida tajribasi bilan daraja va ko‘rib chiqish ballari (PRP).
+
+**E’lon maktab chatida aynan o‘sha xabarda ochiladi.** Matn ostidagi tugma butun kanalga emas, to‘g‘ridan-to‘g‘ri xabarga olib boradi. Boshqa e’lon ostida yozilgan post «davomi» deb belgilanadi.
+
+**Profil ikkala balansni ham ko‘rsatadi.** Kod ko‘rib chiqish ballari (CRP) serverning javobida boshidan bor edi va hech qayerda chizilmasdi — endi ular ko‘rib chiqish ballari yonida va alohida belgilangan.
+
+**Maktabdagi holat — o‘z so‘zlari bilan.** Ta’til, to‘xtatish va o‘qishdan chetlatish endi bir xil o‘qilmaydi.
+
+**Chat sarlavhasidan profilga.** Chat va ko‘rib chiqish sarlavhasida «Profil» tugmasi paydo bo‘ldi: avatar va login ilgari ham u yerga olib borardi, lekin ular tugmaga o‘xshamaydi.
+
+**Login yonida ism.** Agar pir ism va familiyasini ko‘rsatgan bo‘lsa, profil ularni ko‘rsatadi, login esa yonida qoladi — qolgan hamma joyda uni shu nom bilan atashadi. Ko‘rib chiqish va kod ko‘rib chiqish ballari alohida belgilangan: himoyani faqat birinchisi ochadi.
+
+**Hisobni uzishdan oldin so‘raladi.** Kirish usuli olib tashlanishidan avval ilova aynan nima ishlamay qolishini va uni qanday qaytarishni aytadi.
+
+**Bog‘langan hisoblar — alohida sahifada.** Agar bog‘lanadigan ham, bog‘langan ham bo‘lmasa, profilda bu qator umuman ko‘rinmaydi.
+
+**Ilova nomi o‘rniga sahifa nomi.** Brauzer ichki oynasining sarlavhasi endi ekran bilan birga o‘zgaradi, ya’ni tarix va xatcho‘plarda aynan nima ochilgani ko‘rinadi.
+
+**Sukunat — butunlay yoki kanal bo‘yicha.** Bildirishnoma sozlamalarida: hammasini birdan o‘chirish yoki bitta e’lon kanalini o‘chirish. Bildirishnomalar ro‘yxati esa odatdagidek to‘ladi.
+
+**Ikkita yangi bildirishnoma turi: kampus tadbirlari va e’lonlar.** Ular ham boshqalar kabi keladi va o‘z joyida ochiladi.
+
+**Guruh loyihasi uchun jamoa.** Bosh sahifada yangi bo‘lim: uch kishi birga boshlaydigan loyihalar uchun taxta. Ikki joyingiz borligini yozing yoki yozganlarga qo‘shilishni so‘rang. Avtomatik tanlov yo‘q — qaror e’lon muallifiniki, va so‘rovlarni faqat u ko‘radi. Maktab loyiha boshlanganini ko‘rgach, e’lon o‘zi yo‘qoladi.
+
+**Pir profili.** Login endi odamga olib boradi: chatdagi, ro‘yxatdagi, reytingdagi yoki bildirishnomadagi ism yoki avatarni bosing — kampus, to‘lqin va darajani ko‘rasiz. Ilgari bu shunchaki matn edi, va kimligini bilish uchun maktab vositalariga o‘tish kerak bo‘lardi.
+
+**Siz bilan qanday bog‘lanish — o‘zingiz hal qilasiz.** Profilda «Profil va kontaktlar» ekrani paydo bo‘ldi: maktab chatini, Telegram yoki MAX’ni ko‘rsatish yoki yo‘q. Har bir kanal boshida o‘chiq — login orqali topilish bu bir narsa, messenjerda yozish imkonini berish esa boshqa narsa. O‘sha yerda kanal nega hozircha ishlamayotgani ham aytiladi: hisob bog‘lanmagan yoki unda foydalanuvchi nomi yo‘q.
+
+**Hamjamiyat havolalari reliz kutmaydi.** «Hamjamiyat» sahifasida o‘rnatilgan ro‘yxat yonida serverda sozlangan havolalar ham chiqadi — yangi guruh o‘z sarlavhasi ostida paydo bo‘ladi, allaqachon bor havola esa takrorlanmaydi.
+
+**Faqat aniq login orqali topiladi.** Qidiruv ham, ro‘yxat ham, taklif ham yo‘q — bu o‘sha ekranda ochiq aytilgan, chunki «ko‘rinish» so‘zi katalogdek eshitiladi.
+
 ## 1.18.0 — 2026-08-06
 
 **Bildirishnomalar.** Siz bilan sodir bo‘lgan hamma narsa bitta joyda: bosh sahifadagi qo‘ng‘iroq va o‘qilmaganlar soni, har biri o‘z manzilida ochiladi. Ko‘rib chiqishlar, chatlar va yo‘naltirishni sozlasangiz — maktabning o‘z eslatmalari. 90 kun saqlanadi, va u yerda nima paydo bo‘lishiga kanal sozlamalari ta’sir qilmaydi. Ochilgan bildirishnoma nima haqida ekanini ko‘rsatadi: loyiha va maydon, kim yozgani va xabar parchasi, qidiruv qanday tugagani, xat qaysi manzildan kelgani.
