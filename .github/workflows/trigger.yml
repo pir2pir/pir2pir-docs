@@ -13,7 +13,7 @@ on:
 jobs:
   trigger:
     name: Start CI in pir2pir-docs-site
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, macmini]
     steps:
       - name: Dispatch CI on production
         env:

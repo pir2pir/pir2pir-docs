@@ -44,7 +44,7 @@ on:
 jobs:
   publish:
     name: ${{ inputs.page }} → pir2pir-docs (${{ matrix.branch }})
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, macmini]
 
     strategy:
       # Both branches of the content repo get the same text. production so the entry is live as soon
