@@ -9,6 +9,8 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 ## 1.20.0 — 2026-08-09
 
+**Qurilmalar.** Profilda push bildirishnomalar qayerga kelishi ko‘rinadi: ularni yoqqan brauzer va ilovalar, hamda har biri oxirgi marta qachon bog‘langani. Keraksizini olib tashlash mumkin — tasdiq bilan, chunki bu qo‘lingizdagi qurilma bo‘lishi mumkin.
+
 **Profildagi har bir raqamning tarixi.** Daraja, tanga, PRP yoki CRP ustiga bosing — bir oy, uch oy yoki bir yillik grafik va barcha o‘zgarishlar ro‘yxati ochiladi: qancha edi, qancha bo‘ldi va qachon. 21School faqat joriy qiymatni saqlaydi va uni qayta yozadi, shuning uchun o‘tmish faqat shu yerda qoladi.
 
 ## 1.19.0 — 2026-08-08
