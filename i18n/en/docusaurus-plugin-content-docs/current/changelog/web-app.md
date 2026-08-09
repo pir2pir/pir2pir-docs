@@ -9,6 +9,8 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 ## 1.20.0 — 2026-08-09
 
+**Devices.** Profile now shows where push notifications land: the browsers and apps you switched them on in, and when each was last reached. Remove one you no longer use — with a confirmation, since it might be the device in your hand.
+
 **A history behind every figure on your profile.** Tap the level, the coins, PRP or CRP and you get a chart over a month, three or a year, and every change under it — what it was, what it became, and when. 21School keeps only the current value and overwrites it, so this is the only place the past survives.
 
 ## 1.19.0 — 2026-08-08
