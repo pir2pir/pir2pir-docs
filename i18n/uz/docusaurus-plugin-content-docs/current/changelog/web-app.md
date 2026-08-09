@@ -7,6 +7,10 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.20.0 — 2026-08-09
+
+**Profildagi har bir raqamning tarixi.** Daraja, tanga, PRP yoki CRP ustiga bosing — bir oy, uch oy yoki bir yillik grafik va barcha o‘zgarishlar ro‘yxati ochiladi: qancha edi, qancha bo‘ldi va qachon. 21School faqat joriy qiymatni saqlaydi va uni qayta yozadi, shuning uchun o‘tmish faqat shu yerda qoladi.
+
 ## 1.19.0 — 2026-08-08
 
 **Pir profili o‘zingiznikidek ko‘rinadi.** Xuddi shu sarlavha va xuddi shu tartibdagi raqamlar: yonida tajribasi bilan daraja va ko‘rib chiqish ballari (PRP).
