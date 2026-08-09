@@ -7,6 +7,10 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
+## 1.20.0 — 2026-08-09
+
+**A history behind every figure on your profile.** Tap the level, the coins, PRP or CRP and you get a chart over a month, three or a year, and every change under it — what it was, what it became, and when. 21School keeps only the current value and overwrites it, so this is the only place the past survives.
+
 ## 1.19.0 — 2026-08-08
 
 **A peer's profile is laid out like your own.** The same head and the same figures in the same order: level with its experience beside it, and review points (PRP).
