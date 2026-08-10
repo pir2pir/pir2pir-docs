@@ -7,9 +7,11 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
-## 1.20.0 — 2026-08-09
+## 1.20.0 — 2026-08-10
 
 **Qurilmalar.** Profilda push bildirishnomalar qayerga kelishi ko‘rinadi: ularni yoqqan brauzer va ilovalar, hamda har biri oxirgi marta qachon bog‘langani. Keraksizini olib tashlash mumkin — tasdiq bilan, chunki bu qo‘lingizdagi qurilma bo‘lishi mumkin.
+
+**Katta raqamlar qisqartirildi.** Profilda, pir sahifasida va grafik o‘qida `14320` o‘rniga `14.3k` — ortiqcha raqamlar tufayli yozuv ikkinchi qatorga tushib ketardi. Grafik ostida va o‘zgarishlar ro‘yxatida raqamlar to‘liq qoladi.
 
 **Profildagi har bir raqamning tarixi.** Daraja, tanga, PRP yoki CRP ustiga bosing — bir oy, uch oy yoki bir yillik grafik va barcha o‘zgarishlar ro‘yxati ochiladi: qancha edi, qancha bo‘ldi va qachon. 21School faqat joriy qiymatni saqlaydi va uni qayta yozadi, shuning uchun o‘tmish faqat shu yerda qoladi.
 
