@@ -7,9 +7,11 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
-## 1.20.0 — 2026-08-09
+## 1.20.0 — 2026-08-10
 
 **Devices.** Profile now shows where push notifications land: the browsers and apps you switched them on in, and when each was last reached. Remove one you no longer use — with a confirmation, since it might be the device in your hand.
+
+**Long figures are written short.** `14.3k` rather than `14320` on your profile, on a peer's and along the chart's axis — the digits past the first three were pushing the label onto a second line. The chart's readout and the list of changes still show every one of them.
 
 **A history behind every figure on your profile.** Tap the level, the coins, PRP or CRP and you get a chart over a month, three or a year, and every change under it — what it was, what it became, and when. 21School keeps only the current value and overwrites it, so this is the only place the past survives.
 
