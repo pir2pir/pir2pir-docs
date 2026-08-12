@@ -7,6 +7,14 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.21.0 — 2026-08-12
+
+**Kanalni e’lonning o‘zidan o‘chirish.** Yangi post haqidagi bildirishnoma ostida endi tugma bor, undan oldin esa tasdiq: nima to‘xtashi va nima to‘xtamasligi aytiladi — postlar baribir bildirishnomalar ro‘yxatida qoladi, qaytarib yoqish esa bildirishnoma sozlamalarida.
+
+**Taklif uchun QR-kod.** «Taklif qilish» ekrani burchagidagi belgi havolangizni kvadrat sifatida ko‘rsatadi, veb-ilova va Telegram o‘rtasida almashtirgich bilan — yoningizda turgan pir uchun: uning kamerasi bor, lekin havolani olishning yo‘li yo‘q.
+
+**Profildagi raqamlar ostida — o‘z dedlayningiz.** Maktab bunday sanani e'lon qilmaydi, shuning uchun bu sizniki: kunni tanlang, nima uchun ekanini yozing va qator teskari hisobni boshlaydi. Eslatma ikki hafta, bir hafta, uch kun yoki bir kun oldin keladi — istaganingizcha, yoki umuman eslatmasiz, agar hisobning o‘zi yetarli bo‘lsa. Kunlar kampus vaqti bo‘yicha sanaladi, shuning uchun profildagi raqam va eslatmadagi raqam doim mos keladi.
+
 ## 1.20.0 — 2026-08-10
 
 **Qurilmalar.** Profilda push bildirishnomalar qayerga kelishi ko‘rinadi: ularni yoqqan brauzer va ilovalar, hamda har biri oxirgi marta qachon bog‘langani. Keraksizini olib tashlash mumkin — tasdiq bilan, chunki bu qo‘lingizdagi qurilma bo‘lishi mumkin.

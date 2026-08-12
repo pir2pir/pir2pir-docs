@@ -7,6 +7,14 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
+## 1.21.0 — 2026-08-12
+
+**Silence a channel from the announcement itself.** Under a news notification there is now a button for it, with a confirmation that says what stops and what does not — the posts keep appearing in your notification list either way, and Notification settings is where it comes back on.
+
+**A QR code for your invite.** The icon in the corner of the Invite screen holds up your link as a square, with a switch between the web app and Telegram — for the peer standing in front of you, who has a camera and no way of being sent anything.
+
+**A deadline of your own, under the figures on your profile.** The school publishes no such date, so this one is yours: pick a day, say what it is for, and the row counts down to it. Reminders arrive a fortnight, a week, three days or one day before — as many of those as you want, or none at all, if the countdown is enough. Days are counted on campus time, so the number on the row and the one in the reminder always agree.
+
 ## 1.20.0 — 2026-08-10
 
 **Devices.** Profile now shows where push notifications land: the browsers and apps you switched them on in, and when each was last reached. Remove one you no longer use — with a confirmation, since it might be the device in your hand.
