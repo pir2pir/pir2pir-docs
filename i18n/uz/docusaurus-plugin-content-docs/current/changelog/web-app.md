@@ -7,6 +7,16 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
+## 1.22.0 — 2026-08-20
+
+**Ilovani bosh ekranda saqlang.** Endi ilova buni bir marta taklif qiladi — aynan sizning brauzeringiz uchun qadamlar bilan: iPhone’da Safari, Chrome, Firefox, Edge, Opera va Yandex «Ulashish» tugmasini qayerda saqlashi, Android’da menyu bandi, kompyuterda manzil satridagi belgi — va brauzer tugma bergan joyda oddiy tugma. iPhone va iPad’da bu, qolaversa, bildirishnoma olishning yagona yo‘li. «Hozir emas» — hozir emas degani: bir necha oydan keyin yana so‘raymiz, o‘rnatgandan keyin esa hech qachon.
+
+**Bildirishnomalar avval oddiy so‘z bilan so‘raladi.** Brauzer o‘z so‘rovini ko‘rsatishidan oldin ilova nima kelishini aytadi — pir topilgani, xabar, e’lon, dedlayn eslatmasi — va har bir turini keyin alohida o‘chirish mumkinligini. Brauzer so‘rovini qaytarib bo‘lmaydi, shuning uchun u nima haqida ekanini oldindan bilgan ma’qul.
+
+**Ko‘rib chiqish yoki chat sarlavhasi — siz gaplashayotgan odam.** Surat, login va tred nima ekani endi bitta blokda, va butun blok profilni ochadi. Qolgani burchakdagi uch nuqta ostiga o‘tdi: profil, suhbatni yakunlash va keyin qo‘shiladiganlar uchun joy.
+
+**ID Telegram Chat Guard.** Telegram chatlari uchun identifikatsiya nomidan «Pir2Pir» olib tashlandi — endi nomi o‘zi nima ekanini aytadi.
+
 ## 1.21.0 — 2026-08-12
 
 **Kanalni e’lonning o‘zidan o‘chirish.** Yangi post haqidagi bildirishnoma ostida endi tugma bor, undan oldin esa tasdiq: nima to‘xtashi va nima to‘xtamasligi aytiladi — postlar baribir bildirishnomalar ro‘yxatida qoladi, qaytarib yoqish esa bildirishnoma sozlamalarida.
