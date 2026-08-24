@@ -9,13 +9,20 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 ## 1.22.0 — 2026-08-20
 
+**Bildirishnoma sozlamalari jadvalga aylandi.** Kanallar bir marta, yuqorida nomlanadi, har bir qator esa — bitta bildirishnoma turi. Ilgari beshta kanal nomi har bir tur ostida takrorlanib, telefon ekranini to‘ldirardi.
+
 **Ilovani bosh ekranda saqlang.** Endi ilova buni bir marta taklif qiladi — aynan sizning brauzeringiz uchun qadamlar bilan: iPhone’da Safari, Chrome, Firefox, Edge, Opera va Yandex «Ulashish» tugmasini qayerda saqlashi, Android’da menyu bandi, kompyuterda manzil satridagi belgi — va brauzer tugma bergan joyda oddiy tugma. iPhone va iPad’da bu, qolaversa, bildirishnoma olishning yagona yo‘li. «Hozir emas» — hozir emas degani: bir necha oydan keyin yana so‘raymiz, o‘rnatgandan keyin esa hech qachon.
 
 **Bildirishnomalar avval oddiy so‘z bilan so‘raladi.** Brauzer o‘z so‘rovini ko‘rsatishidan oldin ilova nima kelishini aytadi — pir topilgani, xabar, e’lon, dedlayn eslatmasi — va har bir turini keyin alohida o‘chirish mumkinligini. Brauzer so‘rovini qaytarib bo‘lmaydi, shuning uchun u nima haqida ekanini oldindan bilgan ma’qul.
 
-**Ko‘rib chiqish yoki chat sarlavhasi — siz gaplashayotgan odam.** Surat, login va tred nima ekani endi bitta blokda, va butun blok profilni ochadi. Qolgani burchakdagi uch nuqta ostiga o‘tdi: profil, suhbatni yakunlash va keyin qo‘shiladiganlar uchun joy.
+**Chat va ko‘rib chiqish sarlavhasida — profil tugmasi.** Pirning surati va logini endi bitta blokda, uni bosish profilni ochadi. Yonida uch nuqtali tugma: unda o‘sha profil, suhbatni yakunlash va keyin qo‘shiladiganlar uchun joy.
 
 **ID Telegram Chat Guard.** Telegram chatlari uchun identifikatsiya nomidan «Pir2Pir» olib tashlandi — endi nomi o‘zi nima ekanini aytadi.
+
+## Tuzatildi — 2026-08-20
+
+- Bildirishnoma sozlamalaridagi maktab chati ustuni `rocketChat` deb nomlangan va aslida yoqilmasdi: sozlama serverga u bilmaydigan nom bilan yuborilardi va jimgina saqlanmasdi.
+- Bildirishnoma sozlamalari endi sizning tilingizda. Nomlar ilova tilidan qat'i nazar serverdan bitta tilda kelardi.
 
 ## 1.21.0 — 2026-08-12
 
