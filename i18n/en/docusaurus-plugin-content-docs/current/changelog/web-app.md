@@ -7,7 +7,7 @@ sidebar_position: 1
 
 The app updates itself. This is what arrived and what was fixed, newest first. Your version number is at the bottom of the Profile screen.
 
-## 1.22.0 — 2026-08-20
+## 1.22.0 — 2026-08-24
 
 **Notification settings are a grid.** The channels are named once, across the top, and each row is one kind of notification — instead of five channel names repeated under every one of them, which on a phone was the whole screen.
 
@@ -19,8 +19,11 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 **ID Telegram Chat Guard.** The join gate for Telegram chats has dropped "Pir2Pir" from its name — it says what it is, which is what somebody meets it as.
 
-## Fixed — 2026-08-20
+## Fixed — 2026-08-24
 
+- Notification settings fit a phone. The channel headings held one line each, which made the grid half again as wide as the screen and put the switches behind a sideways scroll nobody knew was there.
+- Opening notification settings lit Home in the bar instead of Profile, which is where you got there from. The same for the history charts, school mail and accessibility.
+- The mail forwarding row is gone for anybody who has never set forwarding up — it read as a claim that a provider was waiting on them, when nothing was.
 - The school chat column in notification settings was labelled `rocketChat` and could not actually be switched on — the setting was sent under a name the server does not use, so it silently never took.
 - Notification settings are written in your language. The names came from the server in one language whatever the app was set to, so a Russian screen was a column of English sentences.
 

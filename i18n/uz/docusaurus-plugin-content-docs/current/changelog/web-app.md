@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzatildi, eng yangisi yuqorida. Sizdagi versiya raqami «Profil» ekranining pastida.
 
-## 1.22.0 — 2026-08-20
+## 1.22.0 — 2026-08-24
 
 **Bildirishnoma sozlamalari jadvalga aylandi.** Kanallar bir marta, yuqorida nomlanadi, har bir qator esa — bitta bildirishnoma turi. Ilgari beshta kanal nomi har bir tur ostida takrorlanib, telefon ekranini to‘ldirardi.
 
@@ -19,8 +19,11 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 **ID Telegram Chat Guard.** Telegram chatlari uchun identifikatsiya nomidan «Pir2Pir» olib tashlandi — endi nomi o‘zi nima ekanini aytadi.
 
-## Tuzatildi — 2026-08-20
+## Tuzatildi — 2026-08-24
 
+- Bildirishnoma sozlamalari telefon ekraniga sig‘adi. Kanal nomlari ko‘chmasdi, shu sababli jadval ekrandan bir yarim baravar keng edi va tugmalar hech kim bilmaydigan yon aylantirish ortida qolardi.
+- Bildirishnoma sozlamalariga kirganda pastki panelda «Profil» emas, «Bosh sahifa» yonardi. Tarix grafiklari, maktab pochtasi va foydalanish sozlamalarida ham shunday edi.
+- Pochta yo‘naltirishni tasdiqlash qatori uni hech qachon sozlamaganlarda ko‘rinmaydi: u go‘yo pochta sizdan nimadir kutayotgandek o‘qilardi.
 - Bildirishnoma sozlamalaridagi maktab chati ustuni `rocketChat` deb nomlangan va aslida yoqilmasdi: sozlama serverga u bilmaydigan nom bilan yuborilardi va jimgina saqlanmasdi.
 - Bildirishnoma sozlamalari endi sizning tilingizda. Nomlar ilova tilidan qat'i nazar serverdan bitta tilda kelardi.
 
