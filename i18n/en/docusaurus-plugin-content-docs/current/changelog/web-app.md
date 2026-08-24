@@ -9,13 +9,20 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 ## 1.22.0 — 2026-08-20
 
+**Notification settings are a grid.** The channels are named once, across the top, and each row is one kind of notification — instead of five channel names repeated under every one of them, which on a phone was the whole screen.
+
 **Keep the app on your home screen.** The app now offers this once, with the steps for the browser you are actually in — where Safari, Chrome, Firefox, Edge, Opera and Yandex each keep the share button on an iPhone, a menu item on Android, an address-bar icon on a desktop, and a plain button where the browser provides one. On iPhone and iPad it is also the only way notifications can reach you. "Not now" means not now: it is asked again in a couple of months, and never again once you have done it.
 
 **Notifications are asked for in plain words first.** Before your browser puts up its own permission prompt, the app says what would actually arrive — a match, a message, an announcement, a deadline reminder — and that every kind can be switched off separately afterwards. Your browser's prompt cannot be taken back, so it is worth knowing what it is for before it appears.
 
-**A review or chat header is the person you are talking to.** Their face, login and what the thread is now sit together in one block that opens their profile. Everything else moved behind the dots in the corner: their profile, ending the conversation, and room for what gets added there next.
+**A profile button in the header of a chat or review.** The peer's face and login now sit together in one block, and pressing it opens their profile. Beside it is a dots button holding the same profile, ending the conversation, and room for what gets added there next.
 
 **ID Telegram Chat Guard.** The join gate for Telegram chats has dropped "Pir2Pir" from its name — it says what it is, which is what somebody meets it as.
+
+## Fixed — 2026-08-20
+
+- The school chat column in notification settings was labelled `rocketChat` and could not actually be switched on — the setting was sent under a name the server does not use, so it silently never took.
+- Notification settings are written in your language. The names came from the server in one language whatever the app was set to, so a Russian screen was a column of English sentences.
 
 ## 1.21.0 — 2026-08-12
 
