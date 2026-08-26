@@ -9,6 +9,10 @@ Ilova o‘zini o‘zi yangilaydi. Bu yerda — nima paydo bo‘ldi va nima tuzat
 
 ## 1.22.0 — 2026-08-24
 
+**Barcha kanallar birdan.** «Yangiliklar»dagi kanal tanlovida «Barcha kanallar» qatori paydo bo‘ldi — kuzatayotgan hamma narsangizni bitta lentada, yangisidan boshlab o‘qish uchun. Alohida kanal avvalgidek ochiladi va o‘qilgan deb ham faqat o‘sha yerda belgilanadi.
+
+**Yorug‘ yoki qorong‘i — o‘zingiz tanlaysiz.** Profilda «Ko‘rinish» qatori paydo bo‘ldi: «Tizimdagidek», «Yorug‘» yoki «Qorong‘i». «Tizimdagidek» — ilova doim shunday qilgan: telefonga yoki u ochilgan messenjerga moslashgan; standart holat ham shu. Tanlaganingiz shu qurilmada saqlanadi, Telegram va MAX ichida ham.
+
 **Bildirishnoma sozlamalari jadvalga aylandi.** Kanallar bir marta, yuqorida nomlanadi, har bir qator esa — bitta bildirishnoma turi. Ilgari beshta kanal nomi har bir tur ostida takrorlanib, telefon ekranini to‘ldirardi.
 
 **Ilovani bosh ekranda saqlang.** Endi ilova buni bir marta taklif qiladi — aynan sizning brauzeringiz uchun qadamlar bilan: iPhone’da Safari, Chrome, Firefox, Edge, Opera va Yandex «Ulashish» tugmasini qayerda saqlashi, Android’da menyu bandi, kompyuterda manzil satridagi belgi — va brauzer tugma bergan joyda oddiy tugma. iPhone va iPad’da bu, qolaversa, bildirishnoma olishning yagona yo‘li. «Hozir emas» — hozir emas degani: bir necha oydan keyin yana so‘raymiz, o‘rnatgandan keyin esa hech qachon.
