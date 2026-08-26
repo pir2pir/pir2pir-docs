@@ -9,6 +9,10 @@ The app updates itself. This is what arrived and what was fixed, newest first. Y
 
 ## 1.22.0 — 2026-08-24
 
+**All channels at once.** The news picker has an "All channels" row above the list, for reading everything you follow in one feed, newest first. Picking a single channel still works exactly as before, and is still where a channel gets marked read.
+
+**Light or dark, your choice.** Profile now has an Appearance row: Auto, Light or Dark. Auto is what the app has always done — follow your phone, or the messenger it is running inside — and it stays the default. Choose one and it holds on this device, including inside Telegram and MAX.
+
 **Notification settings are a grid.** The channels are named once, across the top, and each row is one kind of notification — instead of five channel names repeated under every one of them, which on a phone was the whole screen.
 
 **Keep the app on your home screen.** The app now offers this once, with the steps for the browser you are actually in — where Safari, Chrome, Firefox, Edge, Opera and Yandex each keep the share button on an iPhone, a menu item on Android, an address-bar icon on a desktop, and a plain button where the browser provides one. On iPhone and iPad it is also the only way notifications can reach you. "Not now" means not now: it is asked again in a couple of months, and never again once you have done it.
